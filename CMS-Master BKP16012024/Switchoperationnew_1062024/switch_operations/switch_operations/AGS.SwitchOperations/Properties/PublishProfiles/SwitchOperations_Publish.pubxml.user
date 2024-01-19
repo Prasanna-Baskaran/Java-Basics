@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\pubilsh\switchoperationsNEW</_PublishTargetUrl>
+    <History>True|2022-09-27T13:42:37.7874472Z;True|2022-06-09T10:49:31.3620047+05:30;True|2022-04-25T17:30:42.4860503+05:30;True|2022-02-24T13:00:16.3283101+05:30;True|2022-02-24T12:41:25.1881291+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AccountLinkDelinkReqAll.aspx">
+      <publishTime>08/26/2022 12:51:50</publishTime>
+    </File>
+    <File Include="AccountLinking.aspx">
+      <publishTime>09/16/2019 18:07:24</publishTime>
+    </File>
+    <File Include="AccountLinkingAuth.aspx">
+      <publishTime>11/23/2021 15:09:40</publishTime>
+    </File>
+    <File Include="AccountLinkingISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="AccountLinkingRequest.aspx">
+      <publishTime>10/04/2021 17:45:16</publishTime>
+    </File>
+    <File Include="ActivityLogReport.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ActivityReport.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BankConfiguration.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BankConfigure.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BankModuleData.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BankPREStandard.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="bin/AGS.SQLClient.dll">
+      <publishTime>09/16/2019 18:07:24</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.BusinessLogics.dll">
+      <publishTime>09/27/2022 19:00:02</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.BusinessLogics.pdb">
+      <publishTime>09/27/2022 19:00:02</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.BusinessObjects.dll">
+      <publishTime>09/27/2022 18:59:59</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.BusinessObjects.pdb">
+      <publishTime>09/27/2022 18:59:59</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.Common.dll">
+      <publishTime>09/27/2022 19:00:00</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.Common.pdb">
+      <publishTime>09/27/2022 19:00:00</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.DataLogics.dll">
+      <publishTime>09/27/2022 19:00:01</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.DataLogics.pdb">
+      <publishTime>09/27/2022 19:00:01</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.dll">
+      <publishTime>09/27/2022 19:12:19</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.pdb">
+      <publishTime>09/27/2022 19:12:19</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.Validator.dll">
+      <publishTime>09/27/2022 18:59:59</publishTime>
+    </File>
+    <File Include="bin/AGS.SwitchOperations.Validator.pdb">
+      <publishTime>09/27/2022 18:59:59</publishTime>
+    </File>
+    <File Include="bin/AGS.Utilities.dll">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="bin/AGSPGP.dll">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>09/27/2022 19:12:34</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>09/27/2022 19:12:34</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="bin/Renci.SshNet.dll">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/22/2021 14:48:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/22/2021 14:48:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/22/2021 14:48:18</publishTime>
+    </File>
+    <File Include="BinConfigure.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BINMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="BranchMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardDetails.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardDetailsISO.aspx">
+      <publishTime>08/11/2021 16:30:12</publishTime>
+    </File>
+    <File Include="CardFeeConfigure.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardLimits.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardLimitsISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardOperationReport.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardOperations.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardOperationsISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardOrderRequest.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardProduction.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardTemporaryLimit.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CardTypeMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ChangePassword.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CheckCardOperation.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CheckCardOperationISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CheckCardOrder.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Checker.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CIFUpdation.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CourierMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CreateAdminCards.aspx">
+      <publishTime>06/08/2018 18:05:26</publishTime>
+    </File>
+    <File Include="CustomerRegistration.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="CustomError.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="DFCC/Images/DFCC_LOGO.png">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="DFCC/Login.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ErrorPage.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="FileUploadStatus.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="frmTest.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="frmTest2.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="GenerateInstaCardChecker.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="GenerateInstaCardMaker.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Images/ATM Master File.JPG">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Images/details_close.png">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Images/details_open.png">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Images/SDB_LOGO.png">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="InstitutionMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="InternationalUsageAuth.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="InternationalUsageReport.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="InternationalUsageRequest.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="LimitSetAdvisory.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>04/25/2022 17:12:56</publishTime>
+    </File>
+    <File Include="ManageCardReissue.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ManageReissueCardRequestISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="MyApp/object.txt">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/22/2021 14:48:18</publishTime>
+    </File>
+    <File Include="PersonalizedCard.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="PinReissuance.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>09/27/2022 19:12:26</publishTime>
+    </File>
+    <File Include="ProcessCardRequest.aspx">
+      <publishTime>11/29/2021 10:27:30</publishTime>
+    </File>
+    <File Include="ProcessReissueCardRequestISO.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ProductTypeMaster.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Reports.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="ResetPassward.aspx">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-DatePicker.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap-datetimepicker.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/25/2022 15:06:04</publishTime>
+    </File>
+    <File Include="Scripts/buttons.bootstrap.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/custom.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/dataTables.bootstrap.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/dataTables.buttons.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/dataTables.responsive.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/daterangepicker.min.js">
+      <publishTime>02/24/2022 12:37:50</publishTime>
+    </File>
+    <File Include="Scripts/jquery.bootstrap.wizard.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.dataTables.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/JsCommon.js">
+      <publishTime>04/19/2022 14:02:40</publishTime>
+    </File>
+    <File Include="Scripts/Loader.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/moment.min.js">
+      <publishTime>02/24/2022 12:37:50</publishTime>
+    </File>
+    <File Include="Scripts/responsive.bootstrap.js">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Scripts/RSA.js">
+      <publishTime>04/19/2022 14:00:54</publishTime>
+    </File>
+    <File Include="SDF/Images/SDFLogo.png">
+      <publishTime>07/22/2021 14:48:14</publishTime>
+    </File>
+    <File Include="SDF/Login.aspx">
+      <publishTime>04/25/2022 17:13:20</publishTime>
+    </File>
+    <File Include="SearchCustomers.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="SetCardLimitISO.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="ShowAccountBalanceDetails.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Simulator/Simulator.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/AdminLTE.min.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/bootstrap-datetimepicker.min.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.min.css">
+      <publishTime>04/25/2022 15:06:00</publishTime>
+    </File>
+    <File Include="Styles/buttons.bootstrap.min.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/custom.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/custom.min.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/dataTables.bootstrap.min.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/Datatable_Responsive_Right.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/DatePickerBootStrap.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/daterangepicker.css">
+      <publishTime>02/24/2022 12:38:16</publishTime>
+    </File>
+    <File Include="Styles/Loader.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Styles/responsive.bootstrap.css">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="SwitchOperationSite.Master">
+      <publishTime>04/25/2022 17:10:34</publishTime>
+    </File>
+    <File Include="SystemChange.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="TermDenominationCountChecker.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="TermDenominationCountMaker.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="TEST.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="TransactionReport.aspx">
+      <publishTime>02/24/2022 13:00:00</publishTime>
+    </File>
+    <File Include="UserControls/UserButtons.ascx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="UserDetails.aspx">
+      <publishTime>05/13/2022 16:08:06</publishTime>
+    </File>
+    <File Include="UserMatrix.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="UserRole.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="ViewCustomerDetails.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="ViewEditCustDetailAll.aspx">
+      <publishTime>08/25/2022 17:01:52</publishTime>
+    </File>
+    <File Include="ViewEditCustDetailSansa.aspx">
+      <publishTime>11/23/2021 16:21:34</publishTime>
+    </File>
+    <File Include="ViewEditCustomerDetails.aspx">
+      <publishTime>07/22/2021 14:48:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/27/2022 19:12:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,55 @@
+——————-START————-27-08-2018 18:06:20
+FunctionName : FunInsertIntoErrorLog
+Error Message : Object reference not set to an instance of an object.
+Source : AGS.BulkUpload
+StackTrace :    at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 586
+——————-END————-27-08-2018 18:06:20
+——————-START————-27-08-2018 18:09:39
+FunctionName: FunInsertIntoErrorLog
+Error Message: Could not find stored procedure 'dbo.USP_InsertErrorLog'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteNonQuery() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 249
+   at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 593
+——————-END————-27-08-2018 18:09:39
+——————-START————-27-08-2018 18:09:39
+FunctionName: FunGetPaths|Para : IssuerNo = 54
+Error Message: Could not find stored procedure 'dbo.SP_GetConfigPathForFileUpload'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteDataTable() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 387
+   at AGS.BulkUpload.BulkUpload.FunGetPaths(Int32 IssuerNo) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 230
+——————-END————-27-08-2018 18:09:39
+——————-START————-27-08-2018 18:09:39
+FunctionName: FunInsertIntoErrorLog
+Error Message: Could not find stored procedure 'dbo.USP_InsertErrorLog'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteNonQuery() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 249
+   at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 593
+——————-END————-27-08-2018 18:09:39
+——————-START————-27-08-2018 18:09:40
+FunctionName: FunInsertIntoErrorLog
+Error Message: Could not find stored procedure 'dbo.USP_InsertErrorLog'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteNonQuery() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 249
+   at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 593
+——————-END————-27-08-2018 18:09:40
+——————-START————-27-08-2018 18:09:49
+FunctionName: FunInsertIntoErrorLog
+Error Message: Could not find stored procedure 'dbo.USP_InsertErrorLog'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteNonQuery() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 249
+   at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 593
+——————-END————-27-08-2018 18:09:49
+——————-START————-27-08-2018 18:09:51
+FunctionName: FunGetPaths|Para : IssuerNo = 54
+Error Message: Could not find stored procedure 'dbo.SP_GetConfigPathForFileUpload'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteDataTable() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 387
+   at AGS.BulkUpload.BulkUpload.FunGetPaths(Int32 IssuerNo) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 230
+——————-END————-27-08-2018 18:09:51
+——————-START————-27-08-2018 18:09:51
+FunctionName: FunInsertIntoErrorLog
+Error Message: Could not find stored procedure 'dbo.USP_InsertErrorLog'.
+Source: AGS.BulkUpload
+StackTrace :    at ReflectionIT.Common.Data.SqlClient.SqlStoredProcedure.ExecuteNonQuery() in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\SqlStoredProcedure.cs:line 249
+   at AGS.BulkUpload.BulkUpload.FunInsertIntoErrorLog(String procedureName, String errorDesc, String parameterList) in c:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\BulkUpload.cs:line 593
+——————-END————-27-08-2018 18:09:51

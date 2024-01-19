@@ -1,0 +1,204 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace AGS.SwitchOperations.BusinessObjects
+{
+    public class ClsCustomerBO
+    {
+
+    }
+
+    public class ClsCustomer
+    {
+        public Int64 CustomerID { get; set; }
+        public Int64 UserID { get; set; }
+        public string FirstName { get; set; }
+        public string MiddleName { get; set; }
+        public string LastName { get; set; }
+        public string MobileNo { get; set; }
+        public DateTime? DOB_BS { get; set; }
+        public DateTime? DOB_AD { get; set; }
+        public string Nationality { get; set; }
+        public string GenderID { get; set; }
+        public string MaritalStatusID { get; set; }
+        public string PassportNo_CitizenShipNo { get; set; }
+        public string IssueDate_District { get; set; }
+        public string ResidenceTypeID { get; set; }
+        public string ResidenceDesc { get; set; }
+        public string VehicleTypeID { get; set; }
+        public string VehicleType { get; set; }
+        public string VehicleNo { get; set; }
+        public string CardTypeID { get; set; }
+        public string SpouseName { get; set; }
+        public string MotherName { get; set; }
+        public string FatherName { get; set; }
+        public string GrandFatherName { get; set; }
+        public int FormStatusID { get; set; }
+        public string Maker_Date_NE { get; set; }
+        public string Maker_Date_IND { get; set; }
+        public Int64 MakerID { get; set; }
+        public Int64 ModifiedByID { get; set; }
+        public string ModifiedDate_NE { get; set; }
+        public string ModifiedDate_IND { get; set; }
+        public string Checker_Date_NE { get; set; }
+        public string Checker_Date_IND { get; set; }
+        public Int64 CheckerID { get; set; }
+        public string ApplicationNo { get; set; }
+        public string CustomerName { get; set; }
+        public int IntPara { get; set; }
+        public string Remark { get; set; }
+        public Int32 ProductTypeID { get; set; }
+        public Int32 INSTID { get; set; }
+
+        //Kyc document
+        public HttpPostedFile Signature { get; set; }
+        public HttpPostedFile Photo { get; set; }
+        public HttpPostedFile IDProof { get; set; }
+
+        public string SignatureFileName { get; set; }
+        public string PhotoFileName { get; set; }
+        public string IDProofFileName { get; set; }
+        public string NameOnCard { get; set; }
+    }
+
+    public class ClsCustOccupationDtl
+    {
+        public Int64 ID { get; set; }
+        public Int64 CustomerID { get; set; }
+        public string ProfessionTypeID { get; set; }
+        public string ProfessionType { get; set; }
+        public string OrganizationTypeID { get; set; }
+        public string OrganizationTypeDesc { get; set; }
+        public string PreviousEmployment { get; set; }
+        public string Designation { get; set; }
+        public string CompanyName { get; set; }
+        public string FatherName { get; set; }
+        public string BusinessType { get; set; }
+        public string WorkSince { get; set; }
+        public string CompanyAddress { get; set; }
+        public string CompanyEmail { get; set; }
+        public string AnnualSalary { get; set; }
+        public string AnnualIncentive { get; set; }
+        public string AnnualBuisnessIncome { get; set; }
+        public string RentalIncome { get; set; }
+        public string Agriculture { get; set; }
+        public string Income { get; set; }
+        public string TotalAnnualIncome { get; set; }
+        public byte IsOtherCreditCard { get; set; }
+        public string PrincipalBankName { get; set; }
+        public string AccountTypeID { get; set; }
+        public string AccountTypeDesc { get; set; }
+        public byte IsPrabhuBankAcnt { get; set; }
+        public string PrabhuBankAccountNo { get; set; }
+        public string PrabhuBankBranch { get; set; }
+        public byte IsCollectStatement { get; set; }
+        public byte IsEmailStatemnt { get; set; }
+        public string EmailForStatement { get; set; }
+        public string ReffName1 { get; set; }
+        public string ReffDesignation1 { get; set; }
+        public string ReffPhoneNo1 { get; set; }
+        public string ReffName2 { get; set; }
+        public string ReffDesignation2 { get; set; }
+        public string ReffPhoneNo2 { get; set; }
+        public string Documentation { get; set; }
+
+    }
+
+    public class ClsCustomerAddress
+    {
+        public Int64 CustAddressID { get; set; }
+        public Int64 CustomerID { get; set; }
+        public string PO_Box_P { get; set; }
+        public string HouseNo_P { get; set; }
+        public string StreetName_P { get; set; }
+        public string Tole_P { get; set; }
+        public string WardNo_P { get; set; }
+        public string City_P { get; set; }
+        public string District_P { get; set; }
+        public string Phone1_P { get; set; }
+        public string Phone2_P { get; set; }
+        public string FAX_P { get; set; }
+        public string Mobile_P { get; set; }
+        public string Email_P { get; set; }
+        public byte IsSameAsPermAddr { get; set; }
+        public string PO_Box_C { get; set; }
+        public string HouseNo_C { get; set; }
+        public string StreetName_C { get; set; }
+        public string Tole_C { get; set; }
+        public string WardNo_C { get; set; }
+        public string City_C { get; set; }
+        public string District_C { get; set; }
+        public string Phone1_C { get; set; }
+        public string Phone2_C { get; set; }
+        public string FAX_C { get; set; }
+        public string Mobile_C { get; set; }
+        public string Email_C { get; set; }
+        public string PO_Box_O { get; set; }
+        public string HouseNo_O { get; set; }
+        public string StreetName_O { get; set; }
+        public string Tole_O { get; set; }
+        public string WardNo_O { get; set; }
+        public string City_O { get; set; }
+        public string District_O { get; set; }
+        public string Phone1_O { get; set; }
+        public string Phone2_O { get; set; }
+        public string FAX_O { get; set; }
+        public string Mobile_O { get; set; }
+        public string Email_O { get; set; }
+    }
+
+    public class ClsOtherCreditCardDtl
+    {
+        public Int64 ID { get; set; }
+        public Int64 CustomerID { get; set; }
+        public string CardType { get; set; }
+        public string IssuedBy { get; set; }
+        public string IssuedDate { get; set; }
+        public string Limit { get; set; }
+        public string Overdue { get; set; }
+        public string ExpiryDate { get; set; }
+    }
+
+    public class CustSearchFilter
+    {
+        public Int64 ID { get; set; }
+        public string CustomerName { get; set; }
+        public string MobileNo { get; set; }
+        public string ApplicationNo { get; set; }
+        public string IdentificationNo { get; set; }
+        public DateTime? DOB_AD { get; set; }
+        public DateTime? DOB_BS { get; set; }
+        public int IntPara { get; set; }
+        public Int64 CustomerID { get; set; }
+        public string CardNo { get; set; }
+        public decimal? Limit { get; set; }
+        public Int64? MakerID { get; set; }
+        public Int64? CheckerId { get; set; }
+        public int FormStatusID { get; set; }
+        public string Remark { get; set; }
+        //Card Limit
+        public Int32 PurNOTran { get; set; }
+        public decimal PurDailyLimit { get; set; }
+        public decimal PurPTLimit { get; set; }
+
+        public Int32 WithDrawNOTran { get; set; }
+        public decimal WithDrawDailyLimit { get; set; }
+        public decimal WithDrawPTLimit { get; set; }
+
+        public Int32 PaymentNOTran { get; set; }
+        public decimal PaymentDailyLimit { get; set; }
+        public decimal PaymentPTLimit { get; set; }
+
+        public decimal CNPDailyLimit { get; set; }
+        public decimal CNPPTLimit { get; set; }
+        public string UpdateRemark { get; set; }
+        public int RequestTypeID{get;set;}
+        public string RequestIDs { get; set; }
+    }
+
+    
+
+
+}

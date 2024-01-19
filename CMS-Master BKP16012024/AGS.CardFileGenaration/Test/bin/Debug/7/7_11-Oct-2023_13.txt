@@ -1,0 +1,5 @@
+11-10-2023 13:04:23:563::SFTP CONNECTION COMPLETED! :: 
+11-10-2023 13:04:46:785::Retriving data for Insta card generation :: 
+11-10-2023 13:04:46:795::getInstaCardsRequestData PROCESS ENDED :: 
+11-10-2023 13:04:48:004::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+11-10-2023 13:04:48:154::**************************APPLICATION ENDED!************************** :: 

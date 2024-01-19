@@ -1,0 +1,19 @@
+29-08-2023 17:55:50:014::**************************APPLICATION STARTED************************** :: 
+29-08-2023 17:55:50:025::Retriving data for Insta card generation :: 
+29-08-2023 17:55:50:043::getInstaCardsRequestData PROCESS ENDED :: 
+29-08-2023 17:55:50:049::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+29-08-2023 17:55:50:055::Conversion From DataTable To Class Objected Started :: 
+29-08-2023 17:55:50:085::Conversion From DataTable To Class Objected ENDED :: 
+29-08-2023 17:55:50:091::**************************SFTP file download************************** :: 
+29-08-2023 17:55:50:108::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+29-08-2023 17:56:11:204::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+29-08-2023 17:56:11:211::Retriving data for Insta card generation :: 
+29-08-2023 17:56:11:229::getInstaCardsRequestData PROCESS ENDED :: 
+29-08-2023 17:56:11:240::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+29-08-2023 17:56:11:248::**************************APPLICATION ENDED!************************** :: 

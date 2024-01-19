@@ -1,0 +1,21 @@
+D:\gufran\test\TEST\CardRePIN\bin\Debug\CardRePIN.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\CardRePIN.pdb
+D:\gufran\test\TEST\CardRePIN\bin\Debug\AGS.DAL.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\BouncyCastle.Crypto.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\ISGenerixLib.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\ISO8583.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\Renci.SshNet.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\SwitchInterface.dll
+D:\gufran\test\TEST\CardRePIN\bin\Debug\AGS.DAL.pdb
+D:\gufran\test\TEST\CardRePIN\bin\Debug\ISGenerixLib.pdb
+D:\gufran\test\TEST\CardRePIN\bin\Debug\ISO8583.pdb
+D:\gufran\test\TEST\CardRePIN\bin\Debug\SwitchInterface.pdb
+D:\gufran\test\TEST\CardRePIN\obj\Debug\CardRePIN.dll
+D:\gufran\test\TEST\CardRePIN\obj\Debug\CardRePIN.pdb
+D:\gufran\test\TEST\CardRePIN\obj\Debug\CardRePIN.csprojResolveAssemblyReference.cache
+D:\gufran\All LESTEST CODE\CardRePIN\bin\Debug\CardRePIN.dll
+D:\gufran\All LESTEST CODE\CardRePIN\bin\Debug\CardRePIN.pdb
+D:\gufran\All LESTEST CODE\CardRePIN\bin\Debug\BouncyCastle.Crypto.dll
+D:\gufran\All LESTEST CODE\CardRePIN\obj\Debug\CardRePIN.dll
+D:\gufran\All LESTEST CODE\CardRePIN\obj\Debug\CardRePIN.pdb
+D:\gufran\All LESTEST CODE\CardRePIN\obj\Debug\CardRePIN.csprojResolveAssemblyReference.cache

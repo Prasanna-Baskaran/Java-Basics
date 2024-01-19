@@ -1,0 +1,7 @@
+25-09-2023 14:56:42:973::**************************APPLICATION STARTED************************** :: 
+25-09-2023 14:56:44:139::Retriving data for Insta card generation :: 
+25-09-2023 14:56:47:053::getInstaCardsRequestData PROCESS ENDED :: 
+25-09-2023 14:58:58:683::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+25-09-2023 14:59:40:959::Conversion From DataTable To Class Objected Started :: 
+25-09-2023 14:59:46:291::Conversion From DataTable To Class Objected ENDED :: 
+25-09-2023 14:59:50:500::**************************SFTP file download************************** :: 

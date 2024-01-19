@@ -1,0 +1,24 @@
+28-07-2023 18:01:31:698::**************************APPLICATION STARTED************************** :: 
+28-07-2023 18:01:31:709::Retriving data for Insta card generation :: 
+28-07-2023 18:01:31:724::getInstaCardsRequestData PROCESS ENDED :: 
+28-07-2023 18:01:31:730::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+28-07-2023 18:01:31:737::Conversion From DataTable To Class Objected Started :: 
+28-07-2023 18:01:31:769::Conversion From DataTable To Class Objected ENDED :: 
+28-07-2023 18:01:31:775::**************************SFTP file download************************** :: 
+28-07-2023 18:01:31:793::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+28-07-2023 18:01:34:481:: **************************SFTP Connected ************************** :: 
+28-07-2023 18:01:34:496::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+28-07-2023 18:01:35:269::SFTP CONNECTION COMPLETED! :: 
+28-07-2023 18:01:35:280::Retriving data for Insta card generation :: 
+28-07-2023 18:01:35:289::getInstaCardsRequestData PROCESS ENDED :: 
+28-07-2023 18:01:35:294::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+28-07-2023 18:01:35:357::Conversion From DataTable To Class Objected ENDED :: 
+28-07-2023 18:01:35:364::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+28-07-2023 18:01:35:371::Generate CIF for NO Of Cards: 5 :: 
+28-07-2023 18:01:35:378::FunCreateUploadInstaCIF Started :: 
+28-07-2023 18:01:35:392::FilePath: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_45755111_ID#10253#_28_07_2023_06_01_35.txt : FileName: RDB_Bank_CIF_45755111_ID#10253#_28_07_2023_06_01_35.txt : Cardprefix: 45755111 :: 
+28-07-2023 18:01:35:404::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_45755111_ID#10253#_28_07_2023_06_01_35.txt :: 
+28-07-2023 18:01:35:419::FunCreateUploadInstaCIF ended Result : True :: 
+28-07-2023 18:01:35:426::Update FileUpload Status for Insta card generation :: 
+28-07-2023 18:01:35:437::Update FileUpload Status for Insta card generation ENDED :: 
+28-07-2023 18:01:35:446::**************************APPLICATION END************************** :: 

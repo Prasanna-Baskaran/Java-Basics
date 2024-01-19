@@ -1,0 +1,7 @@
+31-07-2023 14:16:03:823::Conversion From DataTable To Class Objected Started :: 
+31-07-2023 14:16:03:857::Conversion From DataTable To Class Objected ENDED :: 
+31-07-2023 14:16:03:867::**************************SFTP file download************************** :: 
+31-07-2023 14:16:03:900::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+31-07-2023 14:16:05:968:: **************************SFTP Connected ************************** :: 
+31-07-2023 14:16:05:977::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+31-07-2023 14:16:06:884::SFTP CONNECTION COMPLETED! :: 

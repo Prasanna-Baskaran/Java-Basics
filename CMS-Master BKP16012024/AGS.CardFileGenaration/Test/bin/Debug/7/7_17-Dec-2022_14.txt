@@ -1,0 +1,68 @@
+17-12-2022 14:02:07:889::**************************APPLICATION STARTED************************** :: 
+17-12-2022 14:02:07:898::Retriving data for Insta card generation :: 
+17-12-2022 14:02:07:915::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:02:07:923::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 14:02:08:623::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 14:02:08:669::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 14:02:08:675::**************************SFTP file download************************** :: 
+17-12-2022 14:02:08:708::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 14:02:29:811::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+17-12-2022 14:02:29:818::Retriving data for Insta card generation :: 
+17-12-2022 14:02:29:827::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:02:29:835::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+17-12-2022 14:02:29:840::**************************APPLICATION ENDED!************************** :: 
+17-12-2022 14:08:12:734::**************************APPLICATION STARTED************************** :: 
+17-12-2022 14:08:12:742::Retriving data for Insta card generation :: 
+17-12-2022 14:08:12:773::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:08:12:779::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 14:08:23:832::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 14:08:25:477::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 14:08:26:617::**************************SFTP file download************************** :: 
+17-12-2022 14:08:31:623::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 14:09:21:189::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+17-12-2022 14:09:24:504::Retriving data for Insta card generation :: 
+17-12-2022 14:09:24:513::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:09:24:519::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+17-12-2022 14:09:24:526::**************************APPLICATION ENDED!************************** :: 
+17-12-2022 14:16:18:254::**************************APPLICATION STARTED************************** :: 
+17-12-2022 14:16:18:262::Retriving data for Insta card generation :: 
+17-12-2022 14:16:18:280::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:16:18:286::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 14:16:28:256::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 14:16:28:645::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 14:16:29:488::**************************SFTP file download************************** :: 
+17-12-2022 14:16:32:881::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 14:17:11:887::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+17-12-2022 14:17:24:695::Retriving data for Insta card generation :: 
+17-12-2022 14:17:24:704::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:17:40:587::Retriving data for Insta card generation :: 
+17-12-2022 14:23:22:694::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 14:24:17:479::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+17-12-2022 14:24:35:563::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 14:24:36:254::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+17-12-2022 14:24:36:260::Generate CIF for NO Of Cards: 2 :: 
+17-12-2022 14:24:50:225::FunCreateUploadInstaCIF Started :: 
+17-12-2022 14:24:50:232::FilePath: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_02_24_50.txt : FileName: SANASABank_CIF_45755100_ID#10183#_17_12_2022_02_24_50.txt : Cardprefix: 45755100 :: 
+17-12-2022 14:24:50:240::InstaCIFFile Generated On Local Path: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_02_24_50.txt :: 
+17-12-2022 14:25:12:960::FunCreateUploadInstaCIF ended Result : True :: 
+17-12-2022 14:25:20:481::Update FileUpload Status for Insta card generation :: 
+17-12-2022 14:26:39:584::Update FileUpload Status for Insta card generation ENDED :: 
+17-12-2022 14:26:45:784::**************************APPLICATION END************************** :: 

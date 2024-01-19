@@ -1,0 +1,10 @@
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\obj\Debug\VDCToPDCSTD4.csprojResolveAssemblyReference.cache
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\VDCToPDCSTD4.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\VDCToPDCSTD4.pdb
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\AGS.PREFileGeneration.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\AGSPGP.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\Renci.SshNet.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\BouncyCastle.Crypto.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\bin\Debug\AGS.PREFileGeneration.pdb
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\obj\Debug\VDCToPDCSTD4.dll
+D:\My work\card_automation\card_automation\AGS.CardFileGenaration\VDCToPDCSTD4\obj\Debug\VDCToPDCSTD4.pdb

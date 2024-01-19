@@ -1,0 +1,9 @@
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Release\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Release\AGS.SwitchOperations.BusinessObjects.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Release\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Release\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Release\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Release\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Release\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Release\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Release\AGS.SwitchOperations.BusinessObjects.pdb

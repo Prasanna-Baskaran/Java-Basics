@@ -1,0 +1,52 @@
+11-12-2019 17:45:51:820::**************************APPLICATION STARTED************************** :: 
+11-12-2019 17:45:52:323::Retriving data for Insta card generation :: 
+11-12-2019 17:45:52:754::getInstaCardsRequestData PROCESS ENDED :: 
+11-12-2019 17:45:53:849::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+11-12-2019 17:45:56:293::Conversion From DataTable To Class Objected Started :: 
+11-12-2019 17:45:56:940::Conversion From DataTable To Class Objected ENDED :: 
+11-12-2019 17:45:58:615::**************************SFTP file download************************** :: 
+11-12-2019 17:46:23:770::Retriving data for Insta card generation :: 
+11-12-2019 17:46:24:194::getInstaCardsRequestData PROCESS ENDED :: 
+11-12-2019 17:46:26:028::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+11-12-2019 17:46:30:547::Conversion From DataTable To Class Objected ENDED :: 
+11-12-2019 17:46:32:763::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+11-12-2019 17:46:33:003::Generate CIF for NO Of Cards: 5 :: 
+11-12-2019 17:46:38:098::FunCreateUploadInstaCIF Started :: 
+11-12-2019 17:47:04:005::FilePath: D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10030#_11_12_2019_05_46_39.txt : FileName: SDBBank_CIF_45755100_ID#10030#_11_12_2019_05_46_39.txt : Cardprefix: 45755100 :: 
+11-12-2019 17:47:09:603::InstaCIFFile Generated On Local Path: D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10030#_11_12_2019_05_46_39.txt :: 
+11-12-2019 17:47:09:812::SFTP Connection Started To Upload file to SFTP :: 
+11-12-2019 17:47:31:435::Exception :: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond 10.167.2.85:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.UploadFile(ConfigDataObject ObjData) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 161
+11-12-2019 17:47:31:604::Local file Deleted file name:D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10030#_11_12_2019_05_46_39.txt :: 
+11-12-2019 17:47:31:810::FunCreateUploadInstaCIF ended Result : False :: 
+11-12-2019 17:47:32:044::Update FileUpload Status for Insta card generation :: 
+11-12-2019 17:47:32:472::Update FileUpload Status for Insta card generation ENDED :: 
+11-12-2019 17:47:32:646::**************************APPLICATION END************************** :: 
+11-12-2019 17:51:56:149::**************************APPLICATION STARTED************************** :: 
+11-12-2019 17:51:56:325::Retriving data for Insta card generation :: 
+11-12-2019 17:51:56:639::getInstaCardsRequestData PROCESS ENDED :: 
+11-12-2019 17:51:56:800::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+11-12-2019 17:52:01:774::Conversion From DataTable To Class Objected Started :: 
+11-12-2019 17:52:04:346::Conversion From DataTable To Class Objected ENDED :: 
+11-12-2019 17:52:06:297::**************************SFTP file download************************** :: 
+11-12-2019 17:52:15:151::Retriving data for Insta card generation :: 
+11-12-2019 17:52:18:212::getInstaCardsRequestData PROCESS ENDED :: 
+11-12-2019 17:53:36:708::Retriving data for Insta card generation :: 
+11-12-2019 17:53:37:220::getInstaCardsRequestData PROCESS ENDED :: 
+11-12-2019 17:53:41:093::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+11-12-2019 17:53:48:076::Conversion From DataTable To Class Objected ENDED :: 
+11-12-2019 17:53:48:484::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+11-12-2019 17:53:48:663::Generate CIF for NO Of Cards: 5 :: 
+11-12-2019 17:54:01:733::FunCreateUploadInstaCIF Started :: 
+11-12-2019 17:54:08:700::FilePath: D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10031#_11_12_2019_05_54_03.txt : FileName: SDBBank_CIF_45755100_ID#10031#_11_12_2019_05_54_03.txt : Cardprefix: 45755100 :: 
+11-12-2019 17:54:23:783::InstaCIFFile Generated On Local Path: D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10031#_11_12_2019_05_54_03.txt :: 
+11-12-2019 17:55:27:798::Local file Deleted file name:D:\CardAutomation\SDB\InstaCards\CIF_File\SDBBank_CIF_45755100_ID#10031#_11_12_2019_05_54_03.txt :: 
+11-12-2019 17:55:34:830::FunCreateUploadInstaCIF ended Result : False :: 
+11-12-2019 17:55:36:891::Update FileUpload Status for Insta card generation :: 
+11-12-2019 17:55:37:559::Update FileUpload Status for Insta card generation ENDED :: 
+11-12-2019 17:55:40:319::**************************APPLICATION END************************** :: 

@@ -1,0 +1,5 @@
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HotListCardReissue\bin\Debug\HotListCardReissue.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HotListCardReissue\bin\Debug\HotListCardReissue.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HotListCardReissue\obj\Debug\HotListCardReissue.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HotListCardReissue\obj\Debug\HotListCardReissue.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HotListCardReissue\obj\Debug\HotListCardReissue.csprojResolveAssemblyReference.cache

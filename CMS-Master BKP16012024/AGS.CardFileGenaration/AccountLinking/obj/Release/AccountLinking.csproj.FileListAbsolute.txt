@@ -1,0 +1,15 @@
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\bin\Release\AccountLinking.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\bin\Release\AccountLinking.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\bin\Release\Newtonsoft.Json.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Release\AccountLinking.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Release\AccountLinking.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Release\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Release\AccountLinking.pdb

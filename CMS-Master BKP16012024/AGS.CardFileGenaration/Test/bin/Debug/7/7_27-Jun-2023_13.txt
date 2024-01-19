@@ -1,0 +1,19 @@
+27-06-2023 13:40:40:472::**************************APPLICATION STARTED************************** :: 
+27-06-2023 13:40:40:488::Retriving data for Insta card generation :: 
+27-06-2023 13:40:40:505::getInstaCardsRequestData PROCESS ENDED :: 
+27-06-2023 13:40:40:513::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+27-06-2023 13:40:40:518::Conversion From DataTable To Class Objected Started :: 
+27-06-2023 13:40:40:634::Conversion From DataTable To Class Objected ENDED :: 
+27-06-2023 13:40:40:649::**************************SFTP file download************************** :: 
+27-06-2023 13:40:40:805::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+27-06-2023 13:40:41:977::System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+27-06-2023 13:40:41:993::Retriving data for Insta card generation :: 
+27-06-2023 13:40:42:009::getInstaCardsRequestData PROCESS ENDED :: 
+27-06-2023 13:40:42:009::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+27-06-2023 13:40:42:024::**************************APPLICATION ENDED!************************** :: 

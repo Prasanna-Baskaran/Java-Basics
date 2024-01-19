@@ -1,0 +1,4 @@
+27-09-2023 01:11:26:949::Retriving data for Insta card generation :: 
+27-09-2023 01:11:26:960::getInstaCardsRequestData PROCESS ENDED :: 
+27-09-2023 01:11:26:972::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+27-09-2023 01:11:26:977::**************************APPLICATION ENDED!************************** :: 

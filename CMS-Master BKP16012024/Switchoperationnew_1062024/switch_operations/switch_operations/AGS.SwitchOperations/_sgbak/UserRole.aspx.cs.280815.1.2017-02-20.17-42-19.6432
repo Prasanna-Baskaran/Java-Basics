@@ -1,0 +1,97 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Text;
+using AGS.SwitchOperations.BusinessObjects;
+using AGS.SwitchOperations.BusinessLogics;
+
+namespace AGS.SwitchOperations
+{
+    public partial class UserRole : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!IsPostBack)
+                {
+                    hdnTransactionDetails.Value = (new ClsCommonBAL()).FunGetGridData(13, string.Empty);
+                }
+            }
+            catch(Exception ex)
+            {
+                new ClsCommonBAL().FunInsertIntoErrorLog("CS, UserRole, Page_Load()", ex.Message, "");
+            }
+        }
+
+        protected void add_Click(object sender, EventArgs e)
+        {
+            ClsReturnStatusBO ObjReturnStatus = new ClsReturnStatusBO();
+            DataTable ObjDTOutPut = new DataTable();
+            ClsUserRoleBO ObjPriFeeBO = new ClsUserRoleBO() { UserRole = txtUserRole.Value };
+            try
+            {
+                if (!string.IsNullOrEmpty(txt_userid.Value))
+                {
+                    try
+                    {
+                        ObjReturnStatus = (new ClsUserRoleBAL()).FunUpdateIntoUserRoleMaster(Convert.ToString(txtUserRole.Value), Convert.ToInt32(txt_userid.Value), Convert.ToInt16(Session["LoginID"]));
+                        LblMsg.InnerText = ObjReturnStatus.Description;
+                        hdnResultStatus.Value = ObjReturnStatus.Code.ToString();
+                        ScriptManager.RegisterStartupScript(this, this.GetType(), "javascript", "FunShowMsg()", true);
+
+                    }
+                    catch (Exception ex)
+                    {
+                        new ClsCommonBAL().FunInsertIntoErrorLog("CS, UserRole, add_Click(for update)", ex.Message, "");
+                    }
+                    finally
+                    {
+                        hdnTransactionDetails.Value = (new ClsCommonBAL()).FunGetGridData(13, string.Empty);
+
+                        txtUserRole.Value = string.Empty;
+                        txt_userid.Value = string.Empty;
+                            
+                    }
+
+                }
+                else
+                {
+                    try
+                    {
+                        ObjReturnStatus = (new ClsUserRoleBAL()).FunInsertIntoUserRoleMaster(ObjPriFeeBO.UserRole, Convert.ToInt16(Session["LoginID"]));
+
+                        hdnResultStatus.Value = ObjReturnStatus.Code.ToString();
+
+                        LblMsg.InnerText = ObjReturnStatus.Description;
+                        hdnResultStatus.Value = Convert.ToString(ObjReturnStatus.Code);
+                        ScriptManager.RegisterStartupScript(this, this.GetType(), "javascript", "FunShowMsg()", true);
+                    }
+
+                    catch (Exception ex)
+                    {
+
+                        new ClsCommonBAL().FunInsertIntoErrorLog("CS, UserRole, add_click_btn(for insert)", ex.Message, "");
+
+                    }
+
+                    finally
+                    {
+                        hdnTransactionDetails.Value = (new ClsCommonBAL()).FunGetGridData(13, string.Empty);
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+                new ClsCommonBAL().FunInsertIntoErrorLog("CS, UserRole, add_Click()", ex.Message, "");
+            }
+
+        }
+
+    }
+}

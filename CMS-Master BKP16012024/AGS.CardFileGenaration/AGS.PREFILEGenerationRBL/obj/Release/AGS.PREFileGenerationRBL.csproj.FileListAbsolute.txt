@@ -1,0 +1,21 @@
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGS.PREFileGenerationRBL.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGS.PREFileGenerationRBL.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGSPGP.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\BouncyCastle.Crypto.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\EPPlus.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\Renci.SshNet.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGS.PREFileGenerationRBL.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGS.PREFileGenerationRBL.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\AGSPGP.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\BouncyCastle.Crypto.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\EPPlus.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Release\Renci.SshNet.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Release\AGS.PREFileGenerationRBL.pdb

@@ -1,0 +1,10 @@
+D:\MyGit\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\bin\Debug\AGS.RBLCardAutomation.dll
+D:\MyGit\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\bin\Debug\AGS.RBLCardAutomation.pdb
+D:\MyGit\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.csprojResolveAssemblyReference.cache
+D:\MyGit\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.dll
+D:\MyGit\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\bin\Debug\AGS.RBLCardAutomation.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\bin\Debug\AGS.RBLCardAutomation.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.RBLCardAutomation\obj\Debug\AGS.RBLCardAutomation.csprojResolveAssemblyReference.cache

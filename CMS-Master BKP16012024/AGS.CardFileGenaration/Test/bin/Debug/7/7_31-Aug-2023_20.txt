@@ -1,0 +1,25 @@
+31-08-2023 20:02:12:760::Conversion From DataTable To Class Objected ENDED :: 
+31-08-2023 20:03:06:722::**************************SFTP file download************************** :: 
+31-08-2023 20:06:39:032::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+31-08-2023 20:08:50:691:: **************************SFTP Connected ************************** :: 
+31-08-2023 20:09:07:993::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+31-08-2023 20:12:12:063::SFTP CONNECTION COMPLETED! :: 
+31-08-2023 20:15:34:345::Retriving data for Insta card generation :: 
+31-08-2023 20:15:34:352::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 20:16:40:462::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+31-08-2023 20:16:41:298::**************************APPLICATION ENDED!************************** :: 
+31-08-2023 20:24:14:969::**************************APPLICATION STARTED************************** :: 
+31-08-2023 20:24:29:521::Retriving data for Insta card generation :: 
+31-08-2023 20:25:10:724::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 20:25:39:302::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+31-08-2023 20:26:04:634::Conversion From DataTable To Class Objected Started :: 
+31-08-2023 20:35:14:786::Conversion From DataTable To Class Objected ENDED :: 
+31-08-2023 20:35:35:450::**************************SFTP file download************************** :: 
+31-08-2023 20:36:50:590::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+31-08-2023 20:37:40:161:: **************************SFTP Connected ************************** :: 
+31-08-2023 20:37:47:174::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+31-08-2023 20:37:52:771::SFTP CONNECTION COMPLETED! :: 
+31-08-2023 20:39:58:988::Retriving data for Insta card generation :: 
+31-08-2023 20:39:58:998::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 20:40:31:667::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+31-08-2023 20:40:32:891::**************************APPLICATION ENDED!************************** :: 

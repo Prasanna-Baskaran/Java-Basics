@@ -1,0 +1,46 @@
+21-09-2023 21:01:02:186::**************************APPLICATION STARTED************************** :: 
+21-09-2023 21:01:02:298::Retriving data for Insta card generation :: 
+21-09-2023 21:01:02:315::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:01:56:737::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+21-09-2023 21:02:01:507::Conversion From DataTable To Class Objected Started :: 
+21-09-2023 21:02:01:910::Conversion From DataTable To Class Objected ENDED :: 
+21-09-2023 21:02:02:601::**************************SFTP file download************************** :: 
+21-09-2023 21:02:02:821::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+21-09-2023 21:02:05:458:: **************************SFTP Connected ************************** :: 
+21-09-2023 21:02:05:466::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+21-09-2023 21:02:06:741::SFTP CONNECTION COMPLETED! :: 
+21-09-2023 21:02:40:279::File PROCESS STARTED FOR !RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:02:44:973::Retriving data for Insta card generation :: 
+21-09-2023 21:02:54:207::File Reader Started for:RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:02:54:215::MAX header COUNT:|2 :: 
+21-09-2023 21:02:54:221::Invalid no of columns found in file.No Column's required are 2 :: 
+21-09-2023 21:02:54:232::File Reader ENDED for:RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:03:58:666::File PROCESS ENDED FOR !RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:04:16:381::Retriving data for Insta card generation :: 
+21-09-2023 21:04:16:389::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:04:55:041::Retriving data for Insta card generation :: 
+21-09-2023 21:05:06:330::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:05:16:427::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+21-09-2023 21:05:16:659::**************************APPLICATION ENDED!************************** :: 
+21-09-2023 21:18:18:974::**************************APPLICATION STARTED************************** :: 
+21-09-2023 21:18:19:038::Retriving data for Insta card generation :: 
+21-09-2023 21:18:19:056::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:18:19:245::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+21-09-2023 21:18:31:018::Conversion From DataTable To Class Objected Started :: 
+21-09-2023 21:18:32:240::Conversion From DataTable To Class Objected ENDED :: 
+21-09-2023 21:18:33:419::**************************SFTP file download************************** :: 
+21-09-2023 21:18:37:670::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+21-09-2023 21:18:56:276:: **************************SFTP Connected ************************** :: 
+21-09-2023 21:19:02:207::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+21-09-2023 21:19:55:097::SFTP CONNECTION COMPLETED! :: 
+21-09-2023 21:21:01:568::File PROCESS STARTED FOR !RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:21:02:656::Retriving data for Insta card generation :: 
+21-09-2023 21:21:24:202::DuplicateFile !RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:21:39:932::File PROCESS ENDED FOR !RDB_Bank_CIF_45755111_ID#10295#_21_09_2023_09_00_35.txt :: 
+21-09-2023 21:21:50:583::Retriving data for Insta card generation :: 
+21-09-2023 21:21:50:594::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:22:06:846::Retriving data for Insta card generation :: 
+21-09-2023 21:22:29:404::getInstaCardsRequestData PROCESS ENDED :: 
+21-09-2023 21:43:14:248::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+21-09-2023 21:43:15:674::**************************APPLICATION ENDED!************************** :: 
+21-09-2023 21:43:51:068::Retriving data for Insta card generation :: 

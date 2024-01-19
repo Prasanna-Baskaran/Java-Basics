@@ -1,0 +1,52 @@
+D:\Projects\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\Projects\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\Projects\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\Projects\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\Projects\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\WorkingProjects2015\PBL_Work\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\WorkingProjects2015\PBL_Work\Scripts_For_UAT\CardAutomation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+D:\My work\Switch Operation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\My work\Switch Operation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\My work\Switch Operation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\My work\Switch Operation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\My work\Switch Operation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+E:\GitCode\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.config
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe.manifest
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.application
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.exe
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Debug\HelloWorld.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe.manifest
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.application
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.exe
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,12 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Release\HelloWorld.exe.config
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Release\HelloWorld.exe.manifest
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Release\HelloWorld.application
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Release\HelloWorld.exe
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\bin\Release\HelloWorld.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.csproj.SuggestedBindingRedirects.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.exe.manifest
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.application
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.exe
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\HelloMoto\obj\Release\HelloWorld.pdb

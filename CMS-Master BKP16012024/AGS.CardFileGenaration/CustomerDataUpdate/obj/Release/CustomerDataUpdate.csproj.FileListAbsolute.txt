@@ -1,0 +1,2 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Release\CustomerDataUpdate.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Release\CustomerDataUpdate.csproj.CoreCompileInputs.cache

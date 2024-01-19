@@ -1,0 +1,34 @@
+17-12-2022 19:03:06:156::**************************APPLICATION STARTED************************** :: 
+17-12-2022 19:03:06:165::Retriving data for Insta card generation :: 
+17-12-2022 19:03:06:183::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 19:03:06:188::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 19:03:07:342::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 19:03:07:377::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 19:03:07:384::**************************SFTP file download************************** :: 
+17-12-2022 19:03:07:407::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 19:03:09:685:: **************************SFTP Connected ************************** :: 
+17-12-2022 19:03:09:691::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+17-12-2022 19:03:10:514::SFTP CONNECTION COMPLETED! :: 
+17-12-2022 19:03:23:684::Retriving data for Insta card generation :: 
+17-12-2022 19:03:23:693::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 19:03:35:893::total request data for Insta cards: DtInstaCards.Rows.Count : 2 :: 
+17-12-2022 19:03:35:970::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 19:03:37:558::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+17-12-2022 19:03:37:564::Generate CIF for NO Of Cards: 3 :: 
+17-12-2022 19:03:37:570::FunCreateUploadInstaCIF Started :: 
+17-12-2022 19:03:37:578::FilePath: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_35711126_ID#10184#_17_12_2022_07_03_37.txt : FileName: SANASABank_CIF_35711126_ID#10184#_17_12_2022_07_03_37.txt : Cardprefix: 35711126 :: 
+17-12-2022 19:03:37:585::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_35711126_ID#10184#_17_12_2022_07_03_37.txt :: 
+17-12-2022 19:03:40:095::FunCreateUploadInstaCIF ended Result : True :: 
+17-12-2022 19:03:40:101::Update FileUpload Status for Insta card generation :: 
+17-12-2022 19:03:40:111::Update FileUpload Status for Insta card generation ENDED :: 
+17-12-2022 19:03:40:116::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 19:03:40:164::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 19:03:42:570::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+17-12-2022 19:03:42:577::Generate CIF for NO Of Cards: 2 :: 
+17-12-2022 19:03:42:584::FunCreateUploadInstaCIF Started :: 
+17-12-2022 19:03:42:590::FilePath: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_35711126_ID#10183#_17_12_2022_07_03_42.txt : FileName: SANASABank_CIF_35711126_ID#10183#_17_12_2022_07_03_42.txt : Cardprefix: 35711126 :: 
+17-12-2022 19:03:42:598::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_35711126_ID#10183#_17_12_2022_07_03_42.txt :: 
+17-12-2022 19:03:45:092::FunCreateUploadInstaCIF ended Result : True :: 
+17-12-2022 19:03:45:098::Update FileUpload Status for Insta card generation :: 
+17-12-2022 19:03:45:115::Update FileUpload Status for Insta card generation ENDED :: 
+17-12-2022 19:03:45:123::**************************APPLICATION END************************** :: 

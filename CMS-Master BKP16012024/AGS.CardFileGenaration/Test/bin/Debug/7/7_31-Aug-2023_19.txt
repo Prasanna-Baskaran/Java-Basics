@@ -1,0 +1,17 @@
+31-08-2023 19:32:55:787::**************************APPLICATION STARTED************************** :: 
+31-08-2023 19:33:02:600::Retriving data for Insta card generation :: 
+31-08-2023 19:36:17:320::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 19:38:38:927::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+31-08-2023 19:38:51:135::Conversion From DataTable To Class Objected Started :: 
+31-08-2023 19:41:57:545::**************************APPLICATION STARTED************************** :: 
+31-08-2023 19:42:08:433::Retriving data for Insta card generation :: 
+31-08-2023 19:42:13:143::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 19:42:48:040::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+31-08-2023 19:42:53:883::Conversion From DataTable To Class Objected Started :: 
+31-08-2023 19:42:54:311::Conversion From DataTable To Class Objected ENDED :: 
+31-08-2023 19:43:24:937::**************************SFTP file download************************** :: 
+31-08-2023 19:44:19:987::**************************APPLICATION STARTED************************** :: 
+31-08-2023 19:44:20:188::Retriving data for Insta card generation :: 
+31-08-2023 19:44:20:203::getInstaCardsRequestData PROCESS ENDED :: 
+31-08-2023 19:44:20:725::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+31-08-2023 19:44:23:935::Conversion From DataTable To Class Objected Started :: 

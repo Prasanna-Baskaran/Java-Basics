@@ -1,0 +1,8 @@
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\bin\Debug\AGS.PREFILEGenerationRBLForExceptionCase.dll
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\bin\Debug\AGS.PREFILEGenerationRBLForExceptionCase.pdb
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\bin\Debug\AGSPGP.dll
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\bin\Debug\BouncyCastle.Crypto.dll
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\bin\Debug\Renci.SshNet.dll
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\obj\Debug\AGS.PREFILEGenerationRBLForExceptionCase.dll
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\obj\Debug\AGS.PREFILEGenerationRBLForExceptionCase.pdb
+D:\MyGit\Card Processing\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBLForExceptionCase\obj\Debug\AGS.PREFILEGenerationRBLForExceptionCase.csprojResolveAssemblyReference.cache

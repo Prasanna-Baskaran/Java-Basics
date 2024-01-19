@@ -1,0 +1,87 @@
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.DAL.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.SQLClient.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.Utilities.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGSPGP.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\BouncyCastle.Crypto.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISGenerixLib.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISO8583_CardAutomation.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Microsoft.CSharp.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Renci.SshNet.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\SwitchInterface.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Configuration.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Net.Http.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.Linq.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\EPPlus.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.DAL.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.SQLClient.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.Utilities.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGSPGP.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\BouncyCastle.Crypto.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISGenerixLib.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISO8583_CardAutomation.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Microsoft.CSharp.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Newtonsoft.Json.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Renci.SshNet.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\SwitchInterface.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Configuration.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Net.Http.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.Linq.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\EPPlus.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.RBLCardAutomationISO.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.DAL.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.SQLClient.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.Utilities.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGSPGP.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\BouncyCastle.Crypto.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISGenerixLib.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\ISO8583_CardAutomation.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Microsoft.CSharp.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\Renci.SshNet.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\SwitchInterface.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Configuration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Net.Http.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\System.Xml.Linq.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\EPPlus.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.PREFileGenerationRBL.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\bin\Debug\AGS.BulkUpload.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\RBLCardAutomationISO\obj\Debug\AGS.RBLCardAutomationISO.pdb

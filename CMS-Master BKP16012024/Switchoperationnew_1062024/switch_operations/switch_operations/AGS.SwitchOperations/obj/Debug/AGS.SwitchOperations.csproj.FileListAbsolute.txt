@@ -1,0 +1,916 @@
+D:\Projects\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Projects\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Projects\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Projects\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.Utilities.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Switchoperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGSPGP.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\BouncyCastle.Crypto.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\Renci.SshNet.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyGit\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Web.Http.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\Newtonsoft.Json.xml
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Web.Http.xml
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+F:\sai\switchOpsPortal\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojAssemblyReference.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+F:\sai\switchOpsPortal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\Newtonsoft.Json.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\GitCode\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\New folder\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SQLClient.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojAssemblyReference.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojResolveAssemblyReference.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+D:\Novus Code\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+D:\Novus Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+D:\Novus Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll.config
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessLogics.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Common.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Net.Http.Formatting.xml
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.xml
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\bin\System.Web.Http.WebHost.xml
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.AssemblyReference.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CoreCompileInputs.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.csproj.CopyComplete
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations\obj\Debug\AGS.SwitchOperations.pdb

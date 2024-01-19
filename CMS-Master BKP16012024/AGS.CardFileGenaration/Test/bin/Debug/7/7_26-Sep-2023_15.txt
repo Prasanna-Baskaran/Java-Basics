@@ -1,0 +1,16 @@
+26-09-2023 15:22:02:002::**************************APPLICATION STARTED************************** :: 
+26-09-2023 15:22:02:629::Retriving data for Insta card generation :: 
+26-09-2023 15:22:08:134::getInstaCardsRequestData PROCESS ENDED :: 
+26-09-2023 15:22:17:570::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+26-09-2023 15:22:19:929::Conversion From DataTable To Class Objected Started :: 
+26-09-2023 15:22:20:290::Conversion From DataTable To Class Objected ENDED :: 
+26-09-2023 15:22:20:899::**************************SFTP file download************************** :: 
+26-09-2023 15:22:27:178::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+26-09-2023 15:22:41:203:: **************************SFTP Connected ************************** :: 
+26-09-2023 15:22:43:623::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+26-09-2023 15:23:03:351::SFTP CONNECTION COMPLETED! :: 
+26-09-2023 15:23:48:564::Retriving data for Insta card generation :: 
+26-09-2023 15:23:48:573::getInstaCardsRequestData PROCESS ENDED :: 
+26-09-2023 15:25:03:719::Exception 3 :: System.NullReferenceException: Object reference not set to an instance of an object.
+   at InstaCardsFileGeneration.ClsInstaCardsFileGen.Process(Int32 IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\ClsInstaCardsFileGen.cs:line 101
+26-09-2023 15:25:04:883::**************************APPLICATION END************************** :: 

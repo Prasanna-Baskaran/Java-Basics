@@ -1,0 +1,25 @@
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\InstaCardsFileGeneration.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\InstaCardsFileGeneration.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGS.SQLClient.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGS.Utilities.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGSPGP.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\BouncyCastle.Crypto.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\Newtonsoft.Json.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\Renci.SshNet.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\InstaCardsFileGeneration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\InstaCardsFileGeneration.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGS.SQLClient.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGS.Utilities.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\AGSPGP.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\BouncyCastle.Crypto.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\bin\Release\Renci.SshNet.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\obj\Release\InstaCardsFileGeneration.pdb

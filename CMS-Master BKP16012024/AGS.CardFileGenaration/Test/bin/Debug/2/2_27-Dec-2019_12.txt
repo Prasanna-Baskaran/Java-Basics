@@ -1,0 +1,35 @@
+27-12-2019 12:03:14:123::**************************APPLICATION STARTED************************** :: 
+27-12-2019 12:03:14:171::Retriving data for Insta card generation :: 
+27-12-2019 12:03:14:185::getInstaCardsRequestData PROCESS ENDED :: 
+27-12-2019 12:03:14:185::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+27-12-2019 12:03:14:185::Conversion From DataTable To Class Objected Started :: 
+27-12-2019 12:03:14:217::Conversion From DataTable To Class Objected ENDED :: 
+27-12-2019 12:03:14:217::**************************SFTP file download************************** :: 
+27-12-2019 12:03:14:514::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+27-12-2019 12:03:16:388::Renci.SshNet.Common.SshAuthenticationException: No suitable authentication method found to complete authentication (publickey).
+   at Renci.SshNet.ClientAuthentication.Authenticate(IConnectionInfoInternal connectionInfo, ISession session)
+   at Renci.SshNet.ConnectionInfo.Authenticate(ISession session)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 63 :: 
+27-12-2019 12:03:16:388::Retriving data for Insta card generation :: 
+27-12-2019 12:03:16:419::getInstaCardsRequestData PROCESS ENDED :: 
+27-12-2019 12:03:16:450::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+27-12-2019 12:03:16:544::Conversion From DataTable To Class Objected ENDED :: 
+27-12-2019 12:03:16:560::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+27-12-2019 12:03:16:575::Generate CIF for NO Of Cards: 1 :: 
+27-12-2019 12:03:16:607::FunCreateUploadInstaCIF Started :: 
+27-12-2019 12:03:16:653::FilePath: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10043#_27_12_2019_12_03_16.txt : FileName: SANASABank_CIF_45755100_ID#10043#_27_12_2019_12_03_16.txt : Cardprefix: 45755100 :: 
+27-12-2019 12:03:16:685::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10043#_27_12_2019_12_03_16.txt :: 
+27-12-2019 12:03:16:685::SFTP Connection Started To Upload file to SFTP :: 
+27-12-2019 12:03:18:251::Exception :: Renci.SshNet.Common.SshAuthenticationException: No suitable authentication method found to complete authentication (publickey).
+   at Renci.SshNet.ClientAuthentication.Authenticate(IConnectionInfoInternal connectionInfo, ISession session)
+   at Renci.SshNet.ConnectionInfo.Authenticate(ISession session)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.UploadFile(ConfigDataObject ObjData) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 162
+27-12-2019 12:03:18:251::Local file Deleted file name:E:\CardAutomation\SDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10043#_27_12_2019_12_03_16.txt :: 
+27-12-2019 12:03:18:282::FunCreateUploadInstaCIF ended Result : False :: 
+27-12-2019 12:03:18:313::Update FileUpload Status for Insta card generation :: 
+27-12-2019 12:03:18:344::Update FileUpload Status for Insta card generation ENDED :: 
+27-12-2019 12:03:18:360::**************************APPLICATION END************************** :: 

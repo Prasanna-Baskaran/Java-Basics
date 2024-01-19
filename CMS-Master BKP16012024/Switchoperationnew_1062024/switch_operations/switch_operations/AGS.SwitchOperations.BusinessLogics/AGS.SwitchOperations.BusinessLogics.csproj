@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9D2BAA2-E785-499F-9C81-8EF1B0EED54C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AGS.SwitchOperations.BusinessLogics</RootNamespace>
+    <AssemblyName>AGS.SwitchOperations.BusinessLogics</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AGS.Utilities">
+      <HintPath>..\..\..\..\..\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations\bin\AGS.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CardTemporaryLimitBAL.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClsAccountBalDetailsBAL.cs" />
+    <Compile Include="ClsAccountLinkingDelinkingBAL.cs" />
+    <Compile Include="ClsBankConfigurationBAL.cs" />
+    <Compile Include="ClsBranchDetailsBAL.cs" />
+    <Compile Include="ClsCardCheckerDetailsBAL.cs" />
+    <Compile Include="ClsCardFeeConfigurationBAL.cs" />
+    <Compile Include="ClsCardMasterBAL.cs" />
+    <Compile Include="ClsCardProductionBAL.cs" />
+    <Compile Include="ClsCIFUpdationBAL.cs" />
+    <Compile Include="ClsCommonBAL.cs" />
+    <Compile Include="ClsCourierDetailsBAL.cs" />
+    <Compile Include="ClsCustomerMasterBAL.cs" />
+    <Compile Include="ClsGeneratePrepaidCardsBAL.cs" />
+    <Compile Include="ClsInternationalUsageBAL.cs" />
+    <Compile Include="ClsLimitSetAdvisory.cs" />
+    <Compile Include="ClsManageCardBAL.cs" />
+    <Compile Include="ClsMasterBAL.cs" />
+    <Compile Include="ClsPrepaidBAL.cs" />
+    <Compile Include="ClsRightsBAL.cs" />
+    <Compile Include="ClssendsmsBAL.cs" />
+    <Compile Include="ClsUserDetailsBAL.cs" />
+    <Compile Include="ClsUserRoleBAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AGS.SwitchOperations.BusinessObjects\AGS.SwitchOperations.BusinessObjects.csproj">
+      <Project>{d45ec88d-59cb-44e7-85b6-5947614626c9}</Project>
+      <Name>AGS.SwitchOperations.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AGS.SwitchOperations.Common\AGS.SwitchOperations.Common.csproj">
+      <Project>{8561f318-ac80-4501-aff8-fff2197f1a2d}</Project>
+      <Name>AGS.SwitchOperations.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AGS.SwitchOperations.DataLogics\AGS.SwitchOperations.DataLogics.csproj">
+      <Project>{89e619f4-1857-4f17-be32-a84b8606da5a}</Project>
+      <Name>AGS.SwitchOperations.DataLogics</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,11 @@
+28-09-2023 12:09:13:975::Retriving data for Insta card generation :: 
+28-09-2023 12:09:23:103::DuplicateFile !RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 12:09:34:093::File PROCESS ENDED FOR !RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 12:09:45:850::File PROCESS STARTED FOR !RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 12:09:49:465::Retriving data for Insta card generation :: 
+28-09-2023 12:09:56:017::DuplicateFile !RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 12:09:57:786::File PROCESS ENDED FOR !RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 12:16:48:904::Retriving data for Insta card generation :: 
+28-09-2023 12:16:54:932::getInstaCardsRequestData PROCESS ENDED :: 
+28-09-2023 12:17:05:301::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+28-09-2023 12:17:05:515::**************************APPLICATION ENDED!************************** :: 

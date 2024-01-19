@@ -1,0 +1,38 @@
+07-12-2019 14:00:30:574::getInstaCardsRequestData PROCESS ENDED :: 
+07-12-2019 14:00:33:288::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+07-12-2019 14:00:39:645::Conversion From DataTable To Class Objected Started :: 
+07-12-2019 14:00:43:565::Conversion From DataTable To Class Objected ENDED :: 
+07-12-2019 14:00:44:830::**************************SFTP file download************************** :: 
+07-12-2019 14:00:48:420::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+07-12-2019 14:01:09:724::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond 10.167.2.85:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+07-12-2019 14:01:22:966::Retriving data for Insta card generation :: 
+07-12-2019 14:01:23:367::getInstaCardsRequestData PROCESS ENDED :: 
+07-12-2019 14:14:13:497::**************************APPLICATION STARTED************************** :: 
+07-12-2019 14:14:14:722::Retriving data for Insta card generation :: 
+07-12-2019 14:14:15:070::getInstaCardsRequestData PROCESS ENDED :: 
+07-12-2019 14:14:15:786::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+07-12-2019 14:14:23:732::**************************No data found for Insta Cards Generation !************************** :: No Configuration data found
+07-12-2019 14:14:24:368::**************REQEST FILE process ended************************** :: 
+07-12-2019 14:14:25:639::Retriving data for Insta card generation :: 
+07-12-2019 14:14:26:058::getInstaCardsRequestData PROCESS ENDED :: 
+07-12-2019 14:14:48:606::total request data for Insta cards: DtInstaCards.Rows.Count : 2 :: 
+07-12-2019 14:14:57:813::Conversion From DataTable To Class Objected ENDED :: 
+07-12-2019 14:14:59:284::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+07-12-2019 14:14:59:453::Generate CIF for NO Of Cards: 5 :: 
+07-12-2019 14:15:03:779::FunCreateUploadInstaCIF Started :: 
+07-12-2019 14:15:05:654::FilePath: SDBBANK_CIF_45755100_ID#10029#_07_12_2019_02_15_04.txt : FileName: SDBBANK_CIF_45755100_ID#10029#_07_12_2019_02_15_04.txt : Cardprefix: 45755100 :: 
+07-12-2019 14:15:18:570::InstaCIFFile Generated On Local Path: SDBBANK_CIF_45755100_ID#10029#_07_12_2019_02_15_04.txt :: 
+07-12-2019 14:15:19:208::SFTP Connection Started To Upload file to SFTP :: 
+07-12-2019 14:15:40:748::Exception :: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond 10.167.2.85:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.UploadFile(ConfigDataObject ObjData) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 161

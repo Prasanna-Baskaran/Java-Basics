@@ -1,0 +1,72 @@
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csprojAssemblyReference.cache
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\Saurabh\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csprojResolveAssemblyReference.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csprojResolveAssemblyReference.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\bin\Debug\AGS.SwitchOperations.Validator.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.AssemblyReference.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.csproj.CoreCompileInputs.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.Validator\obj\Debug\AGS.SwitchOperations.Validator.pdb

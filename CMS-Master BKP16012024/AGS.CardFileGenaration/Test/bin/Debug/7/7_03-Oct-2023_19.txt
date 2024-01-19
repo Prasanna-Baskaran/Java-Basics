@@ -1,0 +1,20 @@
+03-10-2023 19:51:56:042::**************************APPLICATION STARTED************************** :: 
+03-10-2023 19:51:58:976::Retriving data for Insta card generation :: 
+03-10-2023 19:52:05:191::getInstaCardsRequestData PROCESS ENDED :: 
+03-10-2023 19:52:39:633::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+03-10-2023 19:52:45:884::Conversion From DataTable To Class Objected Started :: 
+03-10-2023 19:52:47:820::Conversion From DataTable To Class Objected ENDED :: 
+03-10-2023 19:52:48:714::**************************SFTP file download************************** :: 
+03-10-2023 19:52:56:278::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+03-10-2023 19:53:24:906:: **************************SFTP Connected ************************** :: 
+03-10-2023 19:53:26:260::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+03-10-2023 19:54:54:804::File Found with Name:RDB_Bank_CIF_357111261_ID#10346#_03_10_2023_12_09_48.txt :: 
+03-10-2023 19:56:03:487::Renci.SshNet.Common.SftpPathNotFoundException: The file does not exist.
+   at Renci.SshNet.Sftp.SftpSession.RequestOpen(String path, Flags flags, Boolean nullOnError)
+   at Renci.SshNet.SftpClient.InternalDownloadFile(String path, Stream output, SftpDownloadAsyncResult asyncResult, Action`1 downloadCallback)
+   at Renci.SshNet.SftpClient.DownloadFile(String path, Stream output, Action`1 downloadCallback)
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 84 :: 
+03-10-2023 19:56:13:438::Retriving data for Insta card generation :: 
+03-10-2023 19:56:13:446::getInstaCardsRequestData PROCESS ENDED :: 
+03-10-2023 19:56:15:180::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+03-10-2023 19:56:15:425::**************************APPLICATION ENDED!************************** :: 

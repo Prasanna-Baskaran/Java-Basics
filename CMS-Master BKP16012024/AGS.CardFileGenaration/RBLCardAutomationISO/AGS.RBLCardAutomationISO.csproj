@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DDFA35E5-E4F2-44CD-9739-AB529FCF3F57}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AGS.RBLCardAutomationISO</RootNamespace>
+    <AssemblyName>AGS.RBLCardAutomationISO</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AGS.BulkUpload">
+      <HintPath>..\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.dll</HintPath>
+    </Reference>
+    <Reference Include="AGS.DAL">
+      <HintPath>..\CustomerDataUpdate\bin\Debug\AGS.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="AGS.SQLClient">
+      <HintPath>ExternalDLL\AGS.SQLClient.dll</HintPath>
+    </Reference>
+    <Reference Include="AGS.Utilities">
+      <HintPath>ExternalDLL\AGS.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="AGSPGP">
+      <HintPath>ExternalDLL\AGSPGP.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto">
+      <HintPath>ExternalDLL\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ISGenerixLib">
+      <HintPath>bin\ISGenerixLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ISO8583_CardAutomation">
+      <HintPath>bin\ISO8583_CardAutomation.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet">
+      <HintPath>ExternalDLL\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="SwitchInterface">
+      <HintPath>..\CustomerDataUpdate\bin\Debug\SwitchInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APILogic\AESEncryptionAndDecryption.cs" />
+    <Compile Include="APILogic\CallCardAPI.cs" />
+    <Compile Include="APILogic\DataObject.cs" />
+    <Compile Include="CardAutomation.cs" />
+    <Compile Include="CardgenerationLogic\ConfigDataObject.cs" />
+    <Compile Include="CardgenerationLogic\FileSplit.cs" />
+    <Compile Include="CardgenerationLogic\GenerateCardAPIRequest.cs" />
+    <Compile Include="CardgenerationLogic\ModuleDAL.cs" />
+    <Compile Include="ConfigManager.cs" />
+    <Compile Include="DALExceptions.cs" />
+    <Compile Include="Exceptioncheck\checkException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RBLCardGeneration.cs" />
+    <Compile Include="SFTPFileReader\FileProcessor.cs" />
+    <Compile Include="SFTPFileReader\ReadSFTPFile.cs" />
+    <Compile Include="SFTPFileReader\SearchFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SqlStoredProcedure.cs" />
+    <Compile Include="TCPCommunicator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AGS.PREFILEGenerationRBL\AGS.PREFileGenerationRBL.csproj">
+      <Project>{c75f8df5-6a35-4ad1-8526-21664c42cfda}</Project>
+      <Name>AGS.PREFileGenerationRBL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

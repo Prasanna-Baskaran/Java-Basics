@@ -1,0 +1,35 @@
+08-10-2023 12:17:40:077::**************************APPLICATION STARTED************************** :: 
+08-10-2023 12:18:48:984::Retriving data for Insta card generation :: 
+08-10-2023 12:19:43:944::getInstaCardsRequestData PROCESS ENDED :: 
+08-10-2023 12:19:58:069::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+08-10-2023 12:20:38:993::Conversion From DataTable To Class Objected Started :: 
+08-10-2023 12:20:57:773::Conversion From DataTable To Class Objected ENDED :: 
+08-10-2023 12:21:01:181::**************************SFTP file download************************** :: 
+08-10-2023 12:21:16:369::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+08-10-2023 12:22:03:676:: **************************SFTP Connected ************************** :: 
+08-10-2023 12:22:05:331::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+08-10-2023 12:26:15:985:: **************************SFTP Connected ************************** :: 
+08-10-2023 12:26:18:172::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+08-10-2023 12:26:42:843::File Found with Name:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:28:25:731::File  with path and name ://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt DownLoaded To Location E:\CardAutomation\SDB\InstaCards\FileBased\Input\RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:29:45:153::File  with Name:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt Uploaded To Archive Location /SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Archive/RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:30:53:866::File  with Name://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt is get deleted :: 
+08-10-2023 12:31:15:319::SFTP CONNECTION COMPLETED! :: 
+08-10-2023 12:32:12:196::File PROCESS STARTED FOR !RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:32:20:845::Retriving data for Insta card generation :: 
+08-10-2023 12:32:56:801::File Reader Started for:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:32:56:807::MAX header COUNT:|2 :: 
+08-10-2023 12:32:56:812::Invalid no of columns found in file.No Column's required are 2 :: 
+08-10-2023 12:32:56:818::File Reader ENDED for:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:37:12:063::File Reader Started for:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:42:34:224::File Reader Started for:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:44:26:402::MAX header COUNT:|2 :: 
+08-10-2023 12:44:46:169::Invalid no of columns found in file.No Column's required are 2 :: 
+08-10-2023 12:44:57:417::File Reader ENDED for:RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:49:14:153::File PROCESS ENDED FOR !RDB_Bank_CIF_357111261_ID#10357#_08_10_2023_12_12_34.txt :: 
+08-10-2023 12:49:41:670::Retriving data for Insta card generation :: 
+08-10-2023 12:49:41:678::getInstaCardsRequestData PROCESS ENDED :: 
+08-10-2023 12:50:15:848::Retriving data for Insta card generation :: 
+08-10-2023 12:50:21:027::getInstaCardsRequestData PROCESS ENDED :: 
+08-10-2023 12:50:25:408::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+08-10-2023 12:50:25:839::**************************APPLICATION ENDED!************************** :: 

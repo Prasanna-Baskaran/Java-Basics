@@ -1,0 +1,2 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Release\AGS.CardFileGenaration.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Release\AGS.CardFileGenaration.csproj.CoreCompileInputs.cache

@@ -1,0 +1,52 @@
+17-12-2022 13:32:57:050::**************************APPLICATION STARTED************************** :: 
+17-12-2022 13:32:57:061::Retriving data for Insta card generation :: 
+17-12-2022 13:32:57:079::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 13:32:57:085::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 13:33:23:672::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 13:33:50:014::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 13:33:53:670::**************************SFTP file download************************** :: 
+17-12-2022 13:34:06:663::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 13:37:39:101::System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\CardAutomation\RDB\SSH_KEY\private_card.ppk'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at Renci.SshNet.PrivateKeyFile..ctor(String fileName, String passPhrase)
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 50 :: 
+17-12-2022 13:37:39:109::Retriving data for Insta card generation :: 
+17-12-2022 13:37:39:123::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 13:37:39:134::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+17-12-2022 13:37:39:215::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 13:37:39:226::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+17-12-2022 13:37:39:232::Generate CIF for NO Of Cards: 2 :: 
+17-12-2022 13:37:39:240::FunCreateUploadInstaCIF Started :: 
+17-12-2022 13:37:39:246::FilePath: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_37_39.txt : FileName: SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_37_39.txt : Cardprefix: 45755100 :: 
+17-12-2022 13:37:39:255::InstaCIFFile Generated On Local Path: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_37_39.txt :: 
+17-12-2022 13:38:05:717::**************************APPLICATION STARTED************************** :: 
+17-12-2022 13:38:05:725::Retriving data for Insta card generation :: 
+17-12-2022 13:38:05:743::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 13:38:05:749::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+17-12-2022 13:38:16:694::Conversion From DataTable To Class Objected Started :: 
+17-12-2022 13:38:16:724::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 13:38:16:733::**************************SFTP file download************************** :: 
+17-12-2022 13:38:16:754::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+17-12-2022 13:38:38:084::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.200.1.115:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+17-12-2022 13:38:38:091::Retriving data for Insta card generation :: 
+17-12-2022 13:38:38:101::getInstaCardsRequestData PROCESS ENDED :: 
+17-12-2022 13:38:38:106::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+17-12-2022 13:38:38:172::Conversion From DataTable To Class Objected ENDED :: 
+17-12-2022 13:38:38:179::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+17-12-2022 13:38:38:185::Generate CIF for NO Of Cards: 2 :: 
+17-12-2022 13:38:38:193::FunCreateUploadInstaCIF Started :: 
+17-12-2022 13:38:38:201::FilePath: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_38_38.txt : FileName: SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_38_38.txt : Cardprefix: 45755100 :: 
+17-12-2022 13:38:38:210::InstaCIFFile Generated On Local Path: E:\CardAutomation\RDB\InstaCards\CIF_File\SANASABank_CIF_45755100_ID#10183#_17_12_2022_01_38_38.txt :: 
+17-12-2022 13:40:30:424::FunCreateUploadInstaCIF ended Result : True :: 
+17-12-2022 13:40:30:431::Update FileUpload Status for Insta card generation :: 
+17-12-2022 13:40:30:447::Update FileUpload Status for Insta card generation ENDED :: 
+17-12-2022 13:40:30:455::**************************APPLICATION END************************** :: 

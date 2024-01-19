@@ -1,0 +1,224 @@
+D:\Projects\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Projects\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\Projects\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojAssemblyReference.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojAssemblyReference.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.AssemblyReference.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.AssemblyReference.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.AssemblyReference.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.AssemblyReference.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.csproj.CoreCompileInputs.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.BusinessObjects\obj\Debug\AGS.SwitchOperations.BusinessObjects.pdb

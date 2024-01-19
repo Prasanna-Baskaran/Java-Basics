@@ -1,0 +1,26 @@
+09-10-2023 13:20:36:387::**************************APPLICATION STARTED************************** :: 
+09-10-2023 13:20:40:714::Retriving data for Insta card generation :: 
+09-10-2023 13:20:40:734::getInstaCardsRequestData PROCESS ENDED :: 
+09-10-2023 13:20:40:740::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+09-10-2023 13:21:01:041::Conversion From DataTable To Class Objected Started :: 
+09-10-2023 13:21:01:146::Conversion From DataTable To Class Objected ENDED :: 
+09-10-2023 13:21:01:174::**************************SFTP file download************************** :: 
+09-10-2023 13:21:06:210::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+09-10-2023 13:21:09:131:: **************************SFTP Connected ************************** :: 
+09-10-2023 13:21:09:138::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+09-10-2023 13:21:10:490::SFTP CONNECTION COMPLETED! :: 
+09-10-2023 13:21:17:556::Retriving data for Insta card generation :: 
+09-10-2023 13:21:17:567::getInstaCardsRequestData PROCESS ENDED :: 
+09-10-2023 13:24:57:572::Retriving data for Insta card generation :: 
+09-10-2023 13:27:02:362::getInstaCardsRequestData PROCESS ENDED :: 
+09-10-2023 13:27:14:013::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+09-10-2023 13:27:14:407::Conversion From DataTable To Class Objected ENDED :: 
+09-10-2023 13:27:16:058::Required Fileheader: CIFRDB1|RDB INSTA|CARD|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+09-10-2023 13:27:16:064::Generate CIF for NO Of Cards: 7 :: 
+09-10-2023 13:27:16:073::FunCreateUploadInstaCIF Started :: 
+09-10-2023 13:27:16:080::FilePath: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_454429001_ID#10358#_09_10_2023_01_27_16.txt : FileName: RDB_Bank_CIF_454429001_ID#10358#_09_10_2023_01_27_16.txt : Cardprefix: 454429001 :: 
+09-10-2023 13:27:16:087::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_454429001_ID#10358#_09_10_2023_01_27_16.txt :: 
+09-10-2023 13:27:20:641::FunCreateUploadInstaCIF ended Result : True :: 
+09-10-2023 13:27:20:648::Update FileUpload Status for Insta card generation :: 
+09-10-2023 13:27:20:658::Update FileUpload Status for Insta card generation ENDED :: 
+09-10-2023 13:27:20:664::**************************APPLICATION END************************** :: 

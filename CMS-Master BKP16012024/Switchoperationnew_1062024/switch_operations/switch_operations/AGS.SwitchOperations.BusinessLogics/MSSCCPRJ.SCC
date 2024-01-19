@@ -1,0 +1,5 @@
+SCC = This is a source code control file
+
+[AGS.SwitchOperations.BusinessLogics.csproj]
+SCC_Aux_Path = http://10.167.24.80/VaultService|:2
+SCC_Project_Name = $/SwitchOperations/SwitchOperations/AGS.SwitchOperations.BusinessLogics

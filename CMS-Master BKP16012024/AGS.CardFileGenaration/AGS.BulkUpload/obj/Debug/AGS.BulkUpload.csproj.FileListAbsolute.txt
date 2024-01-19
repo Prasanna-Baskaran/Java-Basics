@@ -1,0 +1,15 @@
+D:\PBL_My_Work\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\BulkUploadModule\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.dll
+D:\PBL_My_Work\BulkUploadModule\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.pdb
+D:\PBL_My_Work\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.dll
+D:\PBL_My_Work\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.pdb
+C:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.dll
+C:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.pdb
+C:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.csprojResolveAssemblyReference.cache
+C:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.dll
+C:\Users\mohammad.gufrankhan\Desktop\BulkUploadModule\BulkUploadModule\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.BulkUpload\bin\Debug\AGS.BulkUpload.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.csprojResolveAssemblyReference.cache
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.BulkUpload\obj\Debug\AGS.BulkUpload.pdb

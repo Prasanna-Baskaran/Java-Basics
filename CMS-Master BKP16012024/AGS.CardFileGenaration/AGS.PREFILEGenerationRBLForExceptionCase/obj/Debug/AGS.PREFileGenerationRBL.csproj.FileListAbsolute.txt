@@ -1,0 +1,8 @@
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Debug\AGS.PREFileGenerationRBL.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Debug\AGS.PREFileGenerationRBL.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Debug\AGSPGP.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Debug\BouncyCastle.Crypto.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\bin\Debug\Renci.SshNet.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Debug\AGS.PREFileGenerationRBL.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Debug\AGS.PREFileGenerationRBL.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\AGS.PREFILEGenerationRBL\obj\Debug\AGS.PREFileGenerationRBL.csprojResolveAssemblyReference.cache

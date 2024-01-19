@@ -1,0 +1,545 @@
+D:\Projects\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Projects\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Projects\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\RefferenceProject\PBL_Menus\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.xml
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_SourceCode\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_13_04\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperations_UserRights_SystemWise\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\23_06_17_Movement\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\PBL_My_Work\SwitchOperationLatest\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\SwitchOperations_LatestUAT_22-06-2017\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Sheetal\SwitchOperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\ver3\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn1\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\vrsn2\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Switchoperations\Backup pages\Proj Bk\SwitchOperations\Sai\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\My work\Switch Operation\SwitchPortalChangeSheetal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\PratikSwitchLatest\Switch_Operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\nagendra.tiwari\Desktop\Temp\SwitchOperations\SwitchOperation_Prateek\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\card_processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations -16032019\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\Card Processing\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\saiprasad.sherlekar\Desktop\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojAssemblyReference.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+F:\sai\switchOpsPortal\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\uddesh\Shirpur\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\uddesh\Project\Tasks\SANASA-NTPCM-23\Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\SANSA\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\1) MyPackages\NTPCM-23\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\GitCode\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojAssemblyReference.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Project\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojResolveAssemblyReference.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Uddesh laptop\Code\sansa_switch_operations_portal-development\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csprojAssemblyReference.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyGit\novus\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Project\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\MyProjects\sansa_switch_operations_portal\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+D:\Novus Code\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Novus SourceCode\Novus SourceCode\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+C:\Users\DELL\OneDrive\Desktop\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.DataLogics.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SQLClient.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.Utilities.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\Newtonsoft.Json.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.BusinessObjects.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\bin\Debug\AGS.SwitchOperations.Common.pdb
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.AssemblyReference.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CoreCompileInputs.cache
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.csproj.CopyComplete
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.dll
+E:\Prasanna\Switchoperationnew_1062024\switch_operations\switch_operations\AGS.SwitchOperations.DataLogics\obj\Debug\AGS.SwitchOperations.DataLogics.pdb

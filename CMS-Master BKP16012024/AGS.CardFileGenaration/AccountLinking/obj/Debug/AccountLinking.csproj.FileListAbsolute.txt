@@ -1,0 +1,8 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Debug\AccountLinking.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Debug\AccountLinking.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\bin\Debug\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Debug\AccountLinking.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Debug\AccountLinking.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Debug\AccountLinking.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Debug\AccountLinking.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AccountLinking\obj\Debug\AccountLinking.pdb

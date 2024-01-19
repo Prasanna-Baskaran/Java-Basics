@@ -1,0 +1,69 @@
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\AGS.DAL.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\AGS.Logger.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\BouncyCastle.Crypto.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\DocumentFormat.OpenXml.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\ISGenerixLib.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\ISO8583.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\Renci.SshNet.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\SwitchInterface.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\Newtonsoft.Json.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\AGS.DAL.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\AGS.Logger.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\ISGenerixLib.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\ISO8583.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\SwitchInterface.pdb
+D:\gufran\cardoperation\test\CustomerDataUpdate\bin\Debug\Newtonsoft.Json.xml
+D:\gufran\cardoperation\test\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+D:\gufran\cardoperation\test\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\BouncyCastle.Crypto.dll
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\Newtonsoft.Json.dll
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csprojResolveAssemblyReference.cache
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\DocumentFormat.OpenXml.dll
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\DocumentFormat.OpenXml.xml
+D:\gufran\All LESTEST CODE\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.CoreCompileInputs.cache
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+C:\Users\saiprasad.sherlekar\Desktop\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.CoreCompileInputs.cache
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+E:\uddesh\_support_Apr_19\customer update\Auto\card_automation--with Atpbf-1039 15_4_19\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csprojResolveAssemblyReference.cache
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\CustomerDataUpdate.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\bin\Debug\WindowsBase.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CustomerDataUpdate\obj\Debug\CustomerDataUpdate.pdb

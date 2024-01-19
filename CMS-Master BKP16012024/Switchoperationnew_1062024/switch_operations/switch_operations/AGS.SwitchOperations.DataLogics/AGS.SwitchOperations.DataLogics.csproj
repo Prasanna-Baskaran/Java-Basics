@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89E619F4-1857-4F17-BE32-A84B8606DA5A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AGS.SwitchOperations.DataLogics</RootNamespace>
+    <AssemblyName>AGS.SwitchOperations.DataLogics</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AGS.SQLClient">
+      <HintPath>bin\AGS.SQLClient.dll</HintPath>
+    </Reference>
+    <Reference Include="AGS.Utilities">
+      <HintPath>bin\AGS.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CardTemporaryLimitDAL.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClsAccountBalDetailsDAL.cs" />
+    <Compile Include="ClsAccountLinkingDelinkingDAL.cs" />
+    <Compile Include="ClsBankConfigurationDAL.cs" />
+    <Compile Include="ClsBranchDetailsDAL.cs" />
+    <Compile Include="ClsCardCheckerDetailsDAL.cs" />
+    <Compile Include="ClsCardFeeConfigurationDAL.cs" />
+    <Compile Include="ClsCardMasterDAL.cs" />
+    <Compile Include="ClsCardProductionDAL.cs" />
+    <Compile Include="ClsCIFUpdationDAL.cs" />
+    <Compile Include="ClsCourierDetailsDAL.cs" />
+    <Compile Include="ClsCustomerMasterDAL.cs" />
+    <Compile Include="ClsGeneratePrepaidCardsDAL.cs" />
+    <Compile Include="ClsInternationalUsageDAL.cs" />
+    <Compile Include="ClsLimitSetAdvisoryDAL.cs" />
+    <Compile Include="ClsManageCardDAL.cs" />
+    <Compile Include="ClsMasterDAL.cs" />
+    <Compile Include="ClsPrepaidDAL.cs" />
+    <Compile Include="ClsRightsDAL.cs" />
+    <Compile Include="ClsUserDetailsDAL.cs" />
+    <Compile Include="ClsUserRoleDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AGS.SwitchOperations.BusinessObjects\AGS.SwitchOperations.BusinessObjects.csproj">
+      <Project>{d45ec88d-59cb-44e7-85b6-5947614626c9}</Project>
+      <Name>AGS.SwitchOperations.BusinessObjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AGS.SwitchOperations.Common\AGS.SwitchOperations.Common.csproj">
+      <Project>{8561f318-ac80-4501-aff8-fff2197f1a2d}</Project>
+      <Name>AGS.SwitchOperations.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

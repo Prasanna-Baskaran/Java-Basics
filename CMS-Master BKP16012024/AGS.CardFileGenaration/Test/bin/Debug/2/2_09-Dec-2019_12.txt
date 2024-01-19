@@ -1,0 +1,144 @@
+09-12-2019 12:06:37:964::**************************APPLICATION STARTED************************** :: 
+09-12-2019 12:06:38:963::Retriving data for Insta card generation :: 
+09-12-2019 12:06:39:686::getInstaCardsRequestData PROCESS ENDED :: 
+09-12-2019 12:06:43:919::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+09-12-2019 12:06:48:329::Conversion From DataTable To Class Objected Started :: 
+09-12-2019 12:06:50:530::Conversion From DataTable To Class Objected ENDED :: 
+09-12-2019 12:06:57:375::**************************SFTP file download************************** :: 
+09-12-2019 12:07:02:288::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+09-12-2019 12:07:23:664::System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond 10.167.2.85:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 62 :: 
+09-12-2019 12:07:56:312::Retriving data for Insta card generation :: 
+09-12-2019 12:07:59:568::getInstaCardsRequestData PROCESS ENDED :: 
+09-12-2019 12:08:07:877::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+09-12-2019 12:08:16:707::Conversion From DataTable To Class Objected ENDED :: 
+09-12-2019 12:08:24:803::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+09-12-2019 12:08:25:334::Generate CIF for NO Of Cards: 10 :: 
+09-12-2019 12:08:46:627::FunCreateUploadInstaCIF Started :: 
+09-12-2019 12:14:56:273::FilePath: D:\CardAutomation\SDB\Insta\CIF_File\Input\SDBBANK_CIF_45755100_ID#10027#_09_12_2019_12_11_05.txt : FileName: SDBBANK_CIF_45755100_ID#10027#_09_12_2019_12_11_05.txt : Cardprefix: 45755100 :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:44:967::Exception 1 :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:46:041::FunCreateUploadInstaCIF ended Result : False :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:46:097::Update FileUpload Status for Insta card generation :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:46:124::Error :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:46:146::Update FileUpload Status for Insta card generation ENDED :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:15:46:166::**************************APPLICATION END************************** :: AGS.SqlClient.DalException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.Data.SqlClient.SqlException: A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.) ---> System.ComponentModel.Win32Exception: An existing connection was forcibly closed by the remote host
+   --- End of inner exception stack trace ---
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AGS.SqlClient.SqlStoredProcedure.Prepare(String executeType)
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   --- End of inner exception stack trace ---
+   at AGS.SqlClient.SqlStoredProcedure.ExecuteNonQuery()
+   at InstaCardsFileGeneration.ModuleDAL.FunInsertIntoErrorLog(String procedureName, String FileID, String ProcessID, String errorDesc, String Message, String IssuerNo, Int32 LogType) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\ModuleDAL.cs:line 220
+09-12-2019 12:19:51:345::**************************APPLICATION STARTED************************** :: 
+09-12-2019 12:19:53:280::Retriving data for Insta card generation :: 
+09-12-2019 12:19:53:661::getInstaCardsRequestData PROCESS ENDED :: 
+09-12-2019 12:20:15:538::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+09-12-2019 12:20:38:057::Retriving data for Insta card generation :: 
+09-12-2019 12:20:40:384::getInstaCardsRequestData PROCESS ENDED :: 
+09-12-2019 12:20:43:559::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 

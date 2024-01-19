@@ -1,0 +1,62 @@
+22-09-2023 11:01:07:481::**************************APPLICATION STARTED************************** :: 
+22-09-2023 11:01:07:587::Retriving data for Insta card generation :: 
+22-09-2023 11:01:09:903::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:01:09:910::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+22-09-2023 11:01:10:208::Conversion From DataTable To Class Objected Started :: 
+22-09-2023 11:01:10:234::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 11:01:10:249::**************************SFTP file download************************** :: 
+22-09-2023 11:01:10:265::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+22-09-2023 11:01:21:871::**************************APPLICATION STARTED************************** :: 
+22-09-2023 11:01:21:889::Retriving data for Insta card generation :: 
+22-09-2023 11:01:22:156::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:01:22:169::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+22-09-2023 11:01:23:619::Conversion From DataTable To Class Objected Started :: 
+22-09-2023 11:01:23:645::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 11:01:23:663::**************************SFTP file download************************** :: 
+22-09-2023 11:01:23:681::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+22-09-2023 11:01:26:395:: **************************SFTP Connected ************************** :: 
+22-09-2023 11:01:26:402::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+22-09-2023 11:01:27:707::SFTP CONNECTION COMPLETED! :: 
+22-09-2023 11:01:29:162::Retriving data for Insta card generation :: 
+22-09-2023 11:01:29:171::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:01:29:306::total request data for Insta cards: DtInstaCards.Rows.Count : 1 :: 
+22-09-2023 11:01:29:379::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 11:01:29:456::Required Fileheader: CIFSANSA1|Dummy Name|Dummy Name|#CardPrefix#|9999999999|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+22-09-2023 11:01:29:487::Generate CIF for NO Of Cards: 1 :: 
+22-09-2023 11:01:29:499::FunCreateUploadInstaCIF Started :: 
+22-09-2023 11:01:29:505::FilePath: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_35771121_ID#10299#_22_09_2023_11_01_29.txt : FileName: RDB_Bank_CIF_35771121_ID#10299#_22_09_2023_11_01_29.txt : Cardprefix: 35771121 :: 
+22-09-2023 11:01:29:517::InstaCIFFile Generated On Local Path: E:\CardAutomation\SDB\Insta\CIF_File\Input\RDB_Bank_CIF_35771121_ID#10299#_22_09_2023_11_01_29.txt :: 
+22-09-2023 11:01:29:980::FunCreateUploadInstaCIF ended Result : True :: 
+22-09-2023 11:01:29:988::Update FileUpload Status for Insta card generation :: 
+22-09-2023 11:01:30:001::Update FileUpload Status for Insta card generation ENDED :: 
+22-09-2023 11:01:30:009::**************************APPLICATION END************************** :: 
+22-09-2023 11:13:37:200::**************************APPLICATION STARTED************************** :: 
+22-09-2023 11:13:37:804::Retriving data for Insta card generation :: 
+22-09-2023 11:15:27:115::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:16:47:446::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+22-09-2023 11:16:55:410::Conversion From DataTable To Class Objected Started :: 
+22-09-2023 11:16:57:780::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 11:16:59:299::**************************SFTP file download************************** :: 
+22-09-2023 11:17:24:119::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+22-09-2023 11:18:03:317:: **************************SFTP Connected ************************** :: 
+22-09-2023 11:18:09:729::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+22-09-2023 11:24:13:611::SFTP CONNECTION COMPLETED! :: 
+22-09-2023 11:25:01:417::Retriving data for Insta card generation :: 
+22-09-2023 11:25:01:427::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:25:15:700::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+22-09-2023 11:25:15:706::**************************APPLICATION ENDED!************************** :: 
+22-09-2023 11:37:08:805::**************************APPLICATION STARTED************************** :: 
+22-09-2023 11:37:09:006::Retriving data for Insta card generation :: 
+22-09-2023 11:37:15:516::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:37:30:030::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+22-09-2023 11:37:38:500::Conversion From DataTable To Class Objected Started :: 
+22-09-2023 11:37:46:482::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 11:37:47:830::**************************SFTP file download************************** :: 
+22-09-2023 11:37:57:646::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+22-09-2023 11:43:28:577:: **************************SFTP Connected ************************** :: 
+22-09-2023 11:45:00:994::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+22-09-2023 11:45:48:353::SFTP CONNECTION COMPLETED! :: 
+22-09-2023 11:47:03:448::Retriving data for Insta card generation :: 
+22-09-2023 11:47:03:457::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 11:47:04:225::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+22-09-2023 11:47:04:991::**************************APPLICATION ENDED!************************** :: 

@@ -1,0 +1,21 @@
+07-12-2019 16:03:36:695::SFTP Connection Started To Upload file to SFTP :: 
+07-12-2019 16:03:56:175::SFTP not connected :: 
+07-12-2019 16:04:38:564::Local file Deleted file name:SDBBANK_CIF_45755100_ID#10029#_07_12_2019_02_15_04.txt :: 
+07-12-2019 16:04:48:858::FunCreateUploadInstaCIF ended Result : False :: 
+07-12-2019 16:04:53:450::Update FileUpload Status for Insta card generation :: 
+07-12-2019 16:05:23:051::Update FileUpload Status for Insta card generation ENDED :: 
+07-12-2019 16:05:29:909::Conversion From DataTable To Class Objected Started :: 
+07-12-2019 16:05:31:371::Conversion From DataTable To Class Objected ENDED :: 
+07-12-2019 16:05:32:323::Required Fileheader: #CIF_ID#|INSTA CARD|INSTA CARD|#CardPrefix#|#AccountNo#|||Dummy ADD1|Dummy ADD2|Dummy ADD3|Dummy City|Dummy State|400710|IND||01011900|||0000000000|Dummy@1234.com|10|111|||||||Y|01| :: 
+07-12-2019 16:05:32:476::Generate CIF for NO Of Cards: 10 :: 
+07-12-2019 16:05:55:087::FunCreateUploadInstaCIF Started :: 
+07-12-2019 16:06:04:177::FilePath: SDBBANK_CIF_45755100_ID#10027#_07_12_2019_04_05_56.txt : FileName: SDBBANK_CIF_45755100_ID#10027#_07_12_2019_04_05_56.txt : Cardprefix: 45755100 :: 
+07-12-2019 16:06:23:572::InstaCIFFile Generated On Local Path: SDBBANK_CIF_45755100_ID#10027#_07_12_2019_04_05_56.txt :: 
+07-12-2019 16:06:24:309::SFTP Connection Started To Upload file to SFTP :: 
+07-12-2019 16:06:45:466::Exception :: System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond 10.167.2.85:220
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at Renci.SshNet.Session.SocketConnect(String host, Int32 port)
+   at Renci.SshNet.Session.Connect()
+   at Renci.SshNet.BaseClient.Connect()
+   at InstaCardsFileGeneration.SearchFile.UploadFile(ConfigDataObject ObjData) in E:\GitCode\card_automation\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 161

@@ -1,0 +1,4 @@
+31-07-2023 12:01:04:510::**************************APPLICATION STARTED************************** :: 
+31-07-2023 12:01:23:794::Retriving data for Insta card generation :: 
+31-07-2023 12:01:23:816::getInstaCardsRequestData PROCESS ENDED :: 
+31-07-2023 12:01:24:017::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 

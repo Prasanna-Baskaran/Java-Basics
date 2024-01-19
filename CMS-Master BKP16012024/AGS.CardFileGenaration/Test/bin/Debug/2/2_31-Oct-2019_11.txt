@@ -1,0 +1,10 @@
+31-10-2019 11:57:17:916::**************************APPLICATION STARTED************************** :: 
+31-10-2019 11:57:18:530::Retriving data for Insta card generation :: 
+31-10-2019 11:57:19:325::getInstaCardsRequestData PROCESS ENDED :: 
+31-10-2019 11:57:44:932::**************************APPLICATION STARTED************************** :: 
+31-10-2019 11:57:46:276::Retriving data for Insta card generation :: 
+31-10-2019 11:57:46:463::getInstaCardsRequestData PROCESS ENDED :: 
+31-10-2019 11:58:29:172::Retriving data for Insta card generation :: 
+31-10-2019 11:58:29:712::getInstaCardsRequestData PROCESS ENDED :: 
+31-10-2019 11:58:47:562::Retriving data for Insta card generation :: 
+31-10-2019 11:59:01:017::getInstaCardsRequestData PROCESS ENDED :: 

@@ -1,0 +1,13 @@
+13-10-2023 11:33:43:618::**************************APPLICATION STARTED************************** :: 
+13-10-2023 11:33:44:022::Retriving data for Insta card generation :: 
+13-10-2023 11:33:44:040::getInstaCardsRequestData PROCESS ENDED :: 
+13-10-2023 11:33:44:528::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+13-10-2023 11:33:48:494::Conversion From DataTable To Class Objected Started :: 
+13-10-2023 11:33:49:188::Conversion From DataTable To Class Objected ENDED :: 
+13-10-2023 11:33:49:852::**************************SFTP file download************************** :: 
+13-10-2023 11:33:51:722::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+13-10-2023 11:34:00:558:: **************************SFTP Connected ************************** :: 
+13-10-2023 11:34:00:877::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+13-10-2023 11:34:13:732::SFTP CONNECTION COMPLETED! :: 
+13-10-2023 11:34:38:841::Retriving data for Insta card generation :: 
+13-10-2023 11:34:38:848::getInstaCardsRequestData PROCESS ENDED :: 

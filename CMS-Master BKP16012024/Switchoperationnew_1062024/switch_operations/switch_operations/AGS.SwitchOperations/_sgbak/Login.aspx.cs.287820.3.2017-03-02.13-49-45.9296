@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using AGS.SwitchOperations.BusinessObjects;
+using AGS.SwitchOperations.BusinessLogics;
+
+namespace AGS.SwitchOperations
+{
+    public partial class Login : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+            loginErrorMsg.Attributes.Add("class", "alert alert-error hide");
+            loginErrorMsg.InnerText = "";
+
+        }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                ClsLoginBO objLogin = new ClsLoginBO();
+                ClsReturnStatusBO ObjReturnStatus = new ClsReturnStatusBO();
+                if ((!string.IsNullOrEmpty(txtUsername.Value)) && (!string.IsNullOrEmpty(txtPwd.Value)))
+                {
+                    objLogin.UserName = txtUsername.Value.Trim();
+                    objLogin.Password = txtPwd.Value.Trim();
+                    ObjReturnStatus = new ClsCommonBAL().FunLoginValidate(objLogin);
+                    if (ObjReturnStatus.Code == 0)
+                    {
+                        Session["UserName"] =objLogin.UserName; 
+                        Session["LoginID"] = objLogin.UserID;
+                        Session["FirstName"] = objLogin.FirstName;
+                        Session["LastName"] = objLogin.Lastname;
+                        Session["MobileNo"] = objLogin.MobileNo;
+                        // Session["session_key"] = parameters[10].Split('=')[1];
+                        Session["EmailId"] = objLogin.EmailId;
+                        Session["UserRoleID"] = objLogin.UserRoleID;
+
+                        //Server.Transfer("Dashboard.aspx");
+                        Response.Redirect("Home.aspx",false);
+                    }
+                    else
+                    {
+                        
+                        loginErrorMsg.Attributes.Add("class", "alert alert-error");
+                        loginErrorMsg.InnerText = ObjReturnStatus.Description.ToString();
+                    }
+                }
+
+
+            }
+            catch (Exception Ex)
+            {
+                (new ClsCommonBAL()).FunInsertIntoErrorLog("CS, Login, btnLogin_Click()", Ex.Message, "");
+            }
+        }
+    }
+}

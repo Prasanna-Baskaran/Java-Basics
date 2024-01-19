@@ -1,0 +1,9 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\bin\Debug\AGS.CardFileGenaration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\bin\Debug\AGS.CardFileGenaration.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\bin\Debug\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\bin\Debug\Newtonsoft.Json.xml
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Debug\AGS.CardFileGenaration.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Debug\AGS.CardFileGenaration.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Debug\AGS.CardFileGenaration.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Debug\AGS.CardFileGenaration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.CardFileGenaration\obj\Debug\AGS.CardFileGenaration.pdb

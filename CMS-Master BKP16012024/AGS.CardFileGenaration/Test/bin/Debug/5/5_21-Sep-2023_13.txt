@@ -1,0 +1,2 @@
+21-09-2023 13:12:23:728::**************************APPLICATION STARTED************************** :: 
+21-09-2023 13:12:37:250::Retriving data for Insta card generation :: 

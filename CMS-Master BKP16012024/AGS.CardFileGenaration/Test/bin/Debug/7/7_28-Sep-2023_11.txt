@@ -1,0 +1,22 @@
+28-09-2023 11:10:16:508::**************************APPLICATION STARTED************************** :: 
+28-09-2023 11:10:18:584::Retriving data for Insta card generation :: 
+28-09-2023 11:10:18:600::getInstaCardsRequestData PROCESS ENDED :: 
+28-09-2023 11:10:18:605::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+28-09-2023 11:10:40:780::Conversion From DataTable To Class Objected Started :: 
+28-09-2023 11:10:40:805::Conversion From DataTable To Class Objected ENDED :: 
+28-09-2023 11:10:40:811::**************************SFTP file download************************** :: 
+28-09-2023 11:10:54:245::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+28-09-2023 11:10:56:962:: **************************SFTP Connected ************************** :: 
+28-09-2023 11:13:24:268::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+28-09-2023 11:13:39:525::File Found with Name:RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 11:14:04:971::File  with path and name ://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt DownLoaded To Location E:\CardAutomation\SDB\InstaCards\FileBased\Input\RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 11:14:26:426::File  with Name:RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt Uploaded To Archive Location /SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Archive/RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 11:14:28:640::File  with Name://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt is get deleted :: 
+28-09-2023 11:14:33:757::File Found with Name:RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 11:15:04:630::File  with path and name ://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt DownLoaded To Location E:\CardAutomation\SDB\InstaCards\FileBased\Input\RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 11:15:09:589::File  with Name:RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt Uploaded To Archive Location /SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Archive/RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt :: 
+28-09-2023 11:15:21:047::File  with Name://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_454429001_ID#10339#_28_09_2023_10_52_15.txt is get deleted :: 
+28-09-2023 11:15:27:091::SFTP CONNECTION COMPLETED! :: 
+28-09-2023 11:15:51:719::File PROCESS STARTED FOR !RDB_Bank_CIF_357111261_ID#10340#_28_09_2023_10_52_12.txt :: 
+28-09-2023 11:16:02:545::Retriving data for Insta card generation :: 
+28-09-2023 11:24:56:325::Retriving data for Insta card generation :: 

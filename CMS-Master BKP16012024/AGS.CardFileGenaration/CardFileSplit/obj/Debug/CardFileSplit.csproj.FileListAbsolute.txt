@@ -1,0 +1,59 @@
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csprojResolveAssemblyReference.cache
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csproj.CoreCompileInputs.cache
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.pdb
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.SQLClient.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.Utilities.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGSPGP.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\BouncyCastle.Crypto.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Newtonsoft.Json.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Renci.SshNet.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.dll
+E:\uddesh\Project\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.pdb
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.SQLClient.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.Utilities.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGSPGP.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\BouncyCastle.Crypto.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Newtonsoft.Json.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Renci.SshNet.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csprojResolveAssemblyReference.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csproj.CoreCompileInputs.cache
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.dll
+E:\GitCode\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.pdb
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.SQLClient.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.Utilities.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGSPGP.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\BouncyCastle.Crypto.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Newtonsoft.Json.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Renci.SshNet.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csprojResolveAssemblyReference.cache
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.dll
+D:\MyGit\Card_Automation\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.pdb
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.SQLClient.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.Utilities.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGSPGP.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\BouncyCastle.Crypto.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Newtonsoft.Json.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Renci.SshNet.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csprojResolveAssemblyReference.cache
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.dll
+D:\MyPackages\NTPCM-23\card_automation\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\CardFileSplit.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.SQLClient.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGS.Utilities.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\AGSPGP.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\BouncyCastle.Crypto.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Newtonsoft.Json.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\bin\Debug\Renci.SshNet.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\CardFileSplit\obj\Debug\CardFileSplit.pdb

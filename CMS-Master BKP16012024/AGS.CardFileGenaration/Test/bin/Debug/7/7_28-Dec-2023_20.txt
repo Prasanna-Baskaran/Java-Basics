@@ -1,0 +1,19 @@
+28-12-2023 20:52:59:088::**************************APPLICATION STARTED************************** :: 
+28-12-2023 20:52:59:096::Retriving data for Insta card generation :: 
+28-12-2023 20:52:59:105::getInstaCardsRequestData PROCESS ENDED :: 
+28-12-2023 20:52:59:109::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+28-12-2023 20:52:59:114::Conversion From DataTable To Class Objected Started :: 
+28-12-2023 20:52:59:123::Conversion From DataTable To Class Objected ENDED :: 
+28-12-2023 20:52:59:129::**************************SFTP file download************************** :: 
+28-12-2023 20:52:59:140::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+28-12-2023 20:52:59:324::System.IO.DirectoryNotFoundException: Could not find a part of the path 'F:\CardAutomation\RDB\SSH_KEY\private_card.ppk'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at Renci.SshNet.PrivateKeyFile..ctor(String fileName, String passPhrase)
+   at InstaCardsFileGeneration.SearchFile.DownloadFile(SFTPDataObject ObjData, String IssuerNo) in E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\InstaCardsFileGeneration\SearchFile.cs:line 50 :: 
+28-12-2023 20:52:59:330::Retriving data for Insta card generation :: 
+28-12-2023 20:52:59:337::getInstaCardsRequestData PROCESS ENDED :: 
+28-12-2023 20:52:59:341::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+28-12-2023 20:52:59:345::**************************APPLICATION ENDED!************************** :: 

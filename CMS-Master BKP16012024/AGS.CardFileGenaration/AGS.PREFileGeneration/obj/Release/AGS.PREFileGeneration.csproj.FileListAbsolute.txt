@@ -1,0 +1,10 @@
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\bin\Release\AGS.PREFileGeneration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\bin\Release\AGS.PREFileGeneration.pdb
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\bin\Release\AGSPGP.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\bin\Release\BouncyCastle.Crypto.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\bin\Release\Renci.SshNet.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\obj\Release\AGS.PREFileGeneration.csproj.AssemblyReference.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\obj\Release\AGS.PREFileGeneration.csproj.CoreCompileInputs.cache
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\obj\Release\AGS.PREFileGeneration.csproj.CopyComplete
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\obj\Release\AGS.PREFileGeneration.dll
+E:\Novus SourceCode\AGS.CardFileGenaration\AGS.CardFileGenaration\AGS.PREFileGeneration\obj\Release\AGS.PREFileGeneration.pdb

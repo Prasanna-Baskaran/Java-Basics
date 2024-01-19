@@ -1,0 +1,2 @@
+D:\WorkingProjects2015\PBL_Work\PBL_Latest\SwitchOperations\AGS.SwitchOperations.Common\obj\Release\AGS.SwitchOperations.Common.csprojResolveAssemblyReference.cache
+D:\PBL_Latest\SwitchOperations\AGS.SwitchOperations.Common\obj\Release\AGS.SwitchOperations.Common.csprojResolveAssemblyReference.cache

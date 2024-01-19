@@ -1,0 +1,24 @@
+22-09-2023 04:05:14:655::**************************APPLICATION STARTED************************** :: 
+22-09-2023 04:05:15:121::Retriving data for Insta card generation :: 
+22-09-2023 04:05:18:697::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 04:05:33:309::total request data for Insta cards: DtConfig.Rows.Count : 1 :: 
+22-09-2023 04:05:43:970::Conversion From DataTable To Class Objected Started :: 
+22-09-2023 04:05:44:339::Conversion From DataTable To Class Objected ENDED :: 
+22-09-2023 04:05:46:019::**************************SFTP file download************************** :: 
+22-09-2023 04:05:50:066::SFTP CONNECTION STARTED TO DOWNLOAD FILES FROM SFTP! :: 
+22-09-2023 04:06:08:009:: **************************SFTP Connected ************************** :: 
+22-09-2023 04:06:13:705::SFTP Connected!//SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/ :: 
+22-09-2023 04:08:34:840::File Found with Name:RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:08:41:671::File  with path and name ://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt DownLoaded To Location E:\CardAutomation\SDB\InstaCards\FileBased\Input\RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:08:52:147::File  with Name:RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt Uploaded To Archive Location /SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Archive/RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:08:57:514::File  with Name://SDBBank_SFTP/SDBCMS/DevCardAutomation/SDB/Insta/FileBased/Input/RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt is get deleted :: 
+22-09-2023 04:08:59:923::SFTP CONNECTION COMPLETED! :: 
+22-09-2023 04:09:38:427::File PROCESS STARTED FOR !RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:09:43:018::Retriving data for Insta card generation :: 
+22-09-2023 04:10:36:764::Retriving data for Insta card generation :: 
+22-09-2023 04:21:03:288::DuplicateFile !RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:21:03:294::File PROCESS ENDED FOR !RDB_Bank_CIF_454429001_ID#10296#_22_09_2023_04_04_24.txt :: 
+22-09-2023 04:21:03:546::Retriving data for Insta card generation :: 
+22-09-2023 04:21:03:554::getInstaCardsRequestData PROCESS ENDED :: 
+22-09-2023 04:21:03:561::**************************No data found for Insta Cards Generation !************************** :: No data found for Insta Caeds
+22-09-2023 04:21:03:568::**************************APPLICATION ENDED!************************** :: 
